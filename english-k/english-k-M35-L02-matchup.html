@@ -67,7 +67,7 @@ const SUBMIT_FORM="https://docs.google.com/forms/d/e/1FAIpQLSempv0GyGaMueoDkb4aL
 const VERSE="Let the wise listen and add to their learning. \u2014 Proverbs 1:5";
 const $=id=>document.getElementById(id);
 
-const PAIRS=[["COLD", "C"], ["NEW", "N"], ["LOUD", "L"], ["FAST", "F"], ["ROUND", "R"], ["SMALL", "S"]];let score=0,done=0,picked=null;
+const PAIRS=[["FAST", "F"], ["NEW", "N"], ["SMALL", "S"], ["WARM", "W"], ["LOUD", "L"], ["ROUND", "R"]];let score=0,done=0,picked=null;
 const words=PAIRS.map(p=>p[0]);
 const pics=PAIRS.slice().sort(()=>Math.random()-.5);
 function draw(){

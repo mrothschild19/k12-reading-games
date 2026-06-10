@@ -67,7 +67,7 @@ const SUBMIT_FORM="https://docs.google.com/forms/d/e/1FAIpQLSempv0GyGaMueoDkb4aL
 const VERSE="Let the wise listen and add to their learning. \u2014 Proverbs 1:5";
 const $=id=>document.getElementById(id);
 
-const Q=[{"lbl": "Which word begins with this sound?", "target": "g", "correct": "g", "options": ["g", "b", "t", "h"]}, {"lbl": "Which word begins with this sound?", "target": "b", "correct": "b", "options": ["b", "g", "t", "h"]}, {"lbl": "Which word begins with this sound?", "target": "t", "correct": "t", "options": ["t", "g", "b", "h"]}, {"lbl": "Which word begins with this sound?", "target": "h", "correct": "h", "options": ["h", "g", "b", "t"]}, {"lbl": "Which word begins with this sound?", "target": "r", "correct": "r", "options": ["r", "g", "b", "t"]}, {"lbl": "Which word begins with this sound?", "target": "m", "correct": "m", "options": ["m", "g", "b", "t"]}];let qi=0,score=0;
+const Q=[{"lbl": "Which word begins with this sound?", "target": "z", "correct": "z", "options": ["z", "e", "b", "a"]}, {"lbl": "Which word begins with this sound?", "target": "e", "correct": "e", "options": ["e", "z", "b", "a"]}, {"lbl": "Which word begins with this sound?", "target": "b", "correct": "b", "options": ["b", "z", "e", "a"]}, {"lbl": "Which word begins with this sound?", "target": "a", "correct": "a", "options": ["a", "z", "e", "b"]}, {"lbl": "Which word begins with this sound?", "target": "d", "correct": "d", "options": ["d", "z", "e", "b"]}, {"lbl": "Which word begins with this sound?", "target": "g", "correct": "g", "options": ["g", "z", "e", "b"]}];let qi=0,score=0;
 function render(){
   const q=Q[qi];$("qnum").textContent=qi+1;$("qtot").textContent=Q.length;
   $("pbar").style.width=(qi/Q.length*100)+"%";

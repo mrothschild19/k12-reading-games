@@ -67,7 +67,7 @@ const SUBMIT_FORM="https://docs.google.com/forms/d/e/1FAIpQLSempv0GyGaMueoDkb4aL
 const VERSE="Let the wise listen and add to their learning. \u2014 Proverbs 1:5";
 const $=id=>document.getElementById(id);
 
-const BASE=["TITLE", "LINE", "TOP", "STOP", "LEFT", "PAGE"];let deck=BASE.concat(BASE).sort(()=>Math.random()-.5);
+const BASE=["RIGHT", "TITLE", "BOOK", "READ", "PAGE", "LINE"];let deck=BASE.concat(BASE).sort(()=>Math.random()-.5);
 let first=null,lock=false,found=0,score=0;
 $("stage").innerHTML='<p class="sub">Flip two cards to find matching pairs.</p><div id=grid style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;max-width:340px;margin:0 auto"></div>';
 const grid=$("grid");
