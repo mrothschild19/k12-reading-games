@@ -1,0 +1,650 @@
+EMBED SNIPPETS — paste into a Gamma card (replace HOST with your hosting URL)
+============================================================
+
+Module 1 · 1.1 (sightword) — Naming parts of a book (cover, title, pages)
+<iframe src="HOST/english-k-M01-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 1 · 1.2 (matchup) — Reading left to right, top to bottom
+<iframe src="HOST/english-k-M01-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 1 · 1.3 (memory) — Pointing to each word as we read
+<iframe src="HOST/english-k-M01-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 1 · 1.4 (whack) — Finding spaces between words
+<iframe src="HOST/english-k-M01-L04-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 1 · 1.5 (sightword) — Knowing where a sentence begins and ends
+<iframe src="HOST/english-k-M01-L05-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 1 · 1.6 (whack) — Print Concepts Quiz
+<iframe src="HOST/english-k-M01-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 2 · 2.1 (beginning) — Recognizing uppercase letters A-G
+<iframe src="HOST/english-k-M02-L01-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 2 · 2.2 (matchup) — Recognizing uppercase letters H-N
+<iframe src="HOST/english-k-M02-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 2 · 2.3 (memory) — Recognizing uppercase letters O-T
+<iframe src="HOST/english-k-M02-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 2 · 2.4 (beginning) — Recognizing uppercase letters U-Z
+<iframe src="HOST/english-k-M02-L04-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 2 · 2.5 (matchup) — Naming all uppercase letters in order
+<iframe src="HOST/english-k-M02-L05-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 2 · 2.6 (whack) — Uppercase Letters A-Z Quiz
+<iframe src="HOST/english-k-M02-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 3 · 3.1 (beginning) — Recognizing lowercase letters a-g
+<iframe src="HOST/english-k-M03-L01-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 3 · 3.2 (memory) — Recognizing lowercase letters h-n
+<iframe src="HOST/english-k-M03-L02-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 3 · 3.3 (matchup) — Recognizing lowercase letters o-t
+<iframe src="HOST/english-k-M03-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 3 · 3.4 (beginning) — Recognizing lowercase letters u-z
+<iframe src="HOST/english-k-M03-L04-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 3 · 3.5 (whack) — Naming all lowercase letters in order
+<iframe src="HOST/english-k-M03-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 3 · 3.6 (memory) — Lowercase Letters a-z Quiz
+<iframe src="HOST/english-k-M03-L06-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 4 · 4.1 (sightword) — Matching A-G to a-g
+<iframe src="HOST/english-k-M04-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 4 · 4.2 (matchup) — Matching H-N to h-n
+<iframe src="HOST/english-k-M04-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 4 · 4.3 (memory) — Matching O-T to o-t
+<iframe src="HOST/english-k-M04-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 4 · 4.4 (sightword) — Matching U-Z to u-z
+<iframe src="HOST/english-k-M04-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 4 · 4.5 (whack) — Sorting mixed upper and lowercase pairs
+<iframe src="HOST/english-k-M04-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 4 · 4.6 (whack) — Matching Upper & Lowercase Quiz
+<iframe src="HOST/english-k-M04-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 5 · 5.1 (rhyme) — Hearing words that rhyme
+<iframe src="HOST/english-k-M05-L01-rhyme.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 5 · 5.2 (matchup) — Choosing the rhyming word
+<iframe src="HOST/english-k-M05-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 5 · 5.3 (memory) — Finding the word that does NOT rhyme
+<iframe src="HOST/english-k-M05-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 5 · 5.4 (rhyme) — Completing a rhyme
+<iframe src="HOST/english-k-M05-L04-rhyme.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 5 · 5.5 (matchup) — Making a new rhyming word
+<iframe src="HOST/english-k-M05-L05-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 5 · 5.6 (memory) — Rhyme Awareness Quiz
+<iframe src="HOST/english-k-M05-L06-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 6 · 6.1 (wordbuild) — Clapping 1-syllable words
+<iframe src="HOST/english-k-M06-L01-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 6 · 6.2 (spelling) — Clapping 2-syllable words
+<iframe src="HOST/english-k-M06-L02-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 6 · 6.3 (matchup) — Clapping 3-syllable words
+<iframe src="HOST/english-k-M06-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 6 · 6.4 (wordbuild) — Counting syllables in names
+<iframe src="HOST/english-k-M06-L04-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 6 · 6.5 (spelling) — Sorting words by number of syllables
+<iframe src="HOST/english-k-M06-L05-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 6 · 6.6 (whack) — Syllable Awareness Quiz
+<iframe src="HOST/english-k-M06-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 7 · 7.1 (beginning) — Hearing the first sound (onset)
+<iframe src="HOST/english-k-M07-L01-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 7 · 7.2 (sightword) — Hearing the word ending (rime)
+<iframe src="HOST/english-k-M07-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 7 · 7.3 (wordbuild) — Blending onset and rime (c-at = cat)
+<iframe src="HOST/english-k-M07-L03-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 7 · 7.4 (memory) — Matching words with the same rime
+<iframe src="HOST/english-k-M07-L04-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 7 · 7.5 (beginning) — Making new words by changing the onset
+<iframe src="HOST/english-k-M07-L05-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 7 · 7.6 (whack) — Onset & Rime Quiz
+<iframe src="HOST/english-k-M07-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 8 · 8.1 (beginning) — Identifying the first sound in a word
+<iframe src="HOST/english-k-M08-L01-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 8 · 8.2 (matchup) — Matching words to their beginning sound
+<iframe src="HOST/english-k-M08-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 8 · 8.3 (whack) — Sorting pictures by first sound
+<iframe src="HOST/english-k-M08-L03-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 8 · 8.4 (sightword) — Choosing words that start the same
+<iframe src="HOST/english-k-M08-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 8 · 8.5 (beginning) — Naming the letter for a beginning sound
+<iframe src="HOST/english-k-M08-L05-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 8 · 8.6 (memory) — First Sounds Quiz
+<iframe src="HOST/english-k-M08-L06-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 9 · 9.1 (beginning) — Identifying the last sound in a word
+<iframe src="HOST/english-k-M09-L01-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 9 · 9.2 (matchup) — Matching words to their ending sound
+<iframe src="HOST/english-k-M09-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 9 · 9.3 (whack) — Sorting pictures by last sound
+<iframe src="HOST/english-k-M09-L03-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 9 · 9.4 (sightword) — Choosing words that end the same
+<iframe src="HOST/english-k-M09-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 9 · 9.5 (beginning) — Naming the letter for an ending sound
+<iframe src="HOST/english-k-M09-L05-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 9 · 9.6 (memory) — Last Sounds Quiz
+<iframe src="HOST/english-k-M09-L06-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 10 · 10.1 (beginning) — Hearing the middle vowel sound
+<iframe src="HOST/english-k-M10-L01-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 10 · 10.2 (sightword) — Identifying short a in the middle
+<iframe src="HOST/english-k-M10-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 10 · 10.3 (matchup) — Identifying short i in the middle
+<iframe src="HOST/english-k-M10-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 10 · 10.4 (memory) — Identifying short o in the middle
+<iframe src="HOST/english-k-M10-L04-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 10 · 10.5 (whack) — Choosing the correct middle vowel
+<iframe src="HOST/english-k-M10-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 10 · 10.6 (beginning) — Middle Sounds (Vowels) Quiz
+<iframe src="HOST/english-k-M10-L06-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 11 · 11.1 (matchup) — Sound and letter b
+<iframe src="HOST/english-k-M11-L01-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 11 · 11.2 (whack) — Sound and letter c
+<iframe src="HOST/english-k-M11-L02-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 11 · 11.3 (memory) — Sound and letter d
+<iframe src="HOST/english-k-M11-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 11 · 11.4 (beginning) — Sound and letter f
+<iframe src="HOST/english-k-M11-L04-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 11 · 11.5 (matchup) — Sound and letter g
+<iframe src="HOST/english-k-M11-L05-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 11 · 11.6 (whack) — Consonants b, c, d, f, g Quiz
+<iframe src="HOST/english-k-M11-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 12 · 12.1 (memory) — Sound and letter h
+<iframe src="HOST/english-k-M12-L01-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 12 · 12.2 (beginning) — Sound and letter j
+<iframe src="HOST/english-k-M12-L02-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 12 · 12.3 (matchup) — Sound and letter k
+<iframe src="HOST/english-k-M12-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 12 · 12.4 (whack) — Sound and letter l
+<iframe src="HOST/english-k-M12-L04-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 12 · 12.5 (memory) — Sound and letter m
+<iframe src="HOST/english-k-M12-L05-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 12 · 12.6 (beginning) — Consonants h, j, k, l, m Quiz
+<iframe src="HOST/english-k-M12-L06-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 13 · 13.1 (matchup) — Sound and letter n
+<iframe src="HOST/english-k-M13-L01-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 13 · 13.2 (whack) — Sound and letter p
+<iframe src="HOST/english-k-M13-L02-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 13 · 13.3 (memory) — Sound and letter q
+<iframe src="HOST/english-k-M13-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 13 · 13.4 (beginning) — Sound and letter r
+<iframe src="HOST/english-k-M13-L04-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 13 · 13.5 (matchup) — Sound and letter s
+<iframe src="HOST/english-k-M13-L05-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 13 · 13.6 (whack) — Consonants n, p, q, r, s Quiz
+<iframe src="HOST/english-k-M13-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 14 · 14.1 (memory) — Sound and letter t
+<iframe src="HOST/english-k-M14-L01-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 14 · 14.2 (beginning) — Sound and letter v
+<iframe src="HOST/english-k-M14-L02-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 14 · 14.3 (matchup) — Sound and letter w
+<iframe src="HOST/english-k-M14-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 14 · 14.4 (whack) — Sound and letter x
+<iframe src="HOST/english-k-M14-L04-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 14 · 14.5 (memory) — Sounds and letters y and z
+<iframe src="HOST/english-k-M14-L05-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 14 · 14.6 (beginning) — Consonants t, v, w, x, y, z Quiz
+<iframe src="HOST/english-k-M14-L06-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 15 · 15.1 (matchup) — Hearing short a sound
+<iframe src="HOST/english-k-M15-L01-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 15 · 15.2 (sightword) — Reading -at words (cat, hat, bat)
+<iframe src="HOST/english-k-M15-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 15 · 15.3 (memory) — Reading -an words (man, pan, fan)
+<iframe src="HOST/english-k-M15-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 15 · 15.4 (whack) — Reading -ap words (cap, map, nap)
+<iframe src="HOST/english-k-M15-L04-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 15 · 15.5 (spelling) — Building short a words
+<iframe src="HOST/english-k-M15-L05-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 15 · 15.6 (beginning) — Short Vowel a Quiz
+<iframe src="HOST/english-k-M15-L06-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 16 · 16.1 (matchup) — Hearing short e sound
+<iframe src="HOST/english-k-M16-L01-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 16 · 16.2 (sightword) — Reading -et words (pet, net, jet)
+<iframe src="HOST/english-k-M16-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 16 · 16.3 (memory) — Reading -en words (hen, pen, ten)
+<iframe src="HOST/english-k-M16-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 16 · 16.4 (whack) — Reading -ed words (bed, red, fed)
+<iframe src="HOST/english-k-M16-L04-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 16 · 16.5 (wordbuild) — Building short e words
+<iframe src="HOST/english-k-M16-L05-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 16 · 16.6 (beginning) — Short Vowel e Quiz
+<iframe src="HOST/english-k-M16-L06-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 17 · 17.1 (matchup) — Hearing short i sound
+<iframe src="HOST/english-k-M17-L01-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 17 · 17.2 (sightword) — Reading -it words (sit, hit, bit)
+<iframe src="HOST/english-k-M17-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 17 · 17.3 (memory) — Reading -ig words (pig, big, dig)
+<iframe src="HOST/english-k-M17-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 17 · 17.4 (whack) — Reading -in words (pin, win, fin)
+<iframe src="HOST/english-k-M17-L04-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 17 · 17.5 (spelling) — Building short i words
+<iframe src="HOST/english-k-M17-L05-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 17 · 17.6 (beginning) — Short Vowel i Quiz
+<iframe src="HOST/english-k-M17-L06-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 18 · 18.1 (matchup) — Hearing short o sound
+<iframe src="HOST/english-k-M18-L01-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 18 · 18.2 (sightword) — Reading -ot words (hot, pot, dot)
+<iframe src="HOST/english-k-M18-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 18 · 18.3 (memory) — Reading -og words (dog, log, fog)
+<iframe src="HOST/english-k-M18-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 18 · 18.4 (whack) — Reading -op words (top, mop, hop)
+<iframe src="HOST/english-k-M18-L04-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 18 · 18.5 (wordbuild) — Building short o words
+<iframe src="HOST/english-k-M18-L05-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 18 · 18.6 (beginning) — Short Vowel o Quiz
+<iframe src="HOST/english-k-M18-L06-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 19 · 19.1 (matchup) — Hearing short u sound
+<iframe src="HOST/english-k-M19-L01-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 19 · 19.2 (sightword) — Reading -ug words (bug, rug, hug)
+<iframe src="HOST/english-k-M19-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 19 · 19.3 (memory) — Reading -un words (sun, run, fun)
+<iframe src="HOST/english-k-M19-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 19 · 19.4 (whack) — Reading -ut words (cut, nut, hut)
+<iframe src="HOST/english-k-M19-L04-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 19 · 19.5 (spelling) — Building short u words
+<iframe src="HOST/english-k-M19-L05-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 19 · 19.6 (beginning) — Short Vowel u Quiz
+<iframe src="HOST/english-k-M19-L06-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 20 · 20.1 (wordbuild) — Blending sounds to read CVC words
+<iframe src="HOST/english-k-M20-L01-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 20 · 20.2 (spelling) — Blending short a CVC words
+<iframe src="HOST/english-k-M20-L02-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 20 · 20.3 (matchup) — Blending short i CVC words
+<iframe src="HOST/english-k-M20-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 20 · 20.4 (wordbuild) — Blending short o and u CVC words
+<iframe src="HOST/english-k-M20-L04-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 20 · 20.5 (sightword) — Reading CVC words quickly
+<iframe src="HOST/english-k-M20-L05-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 20 · 20.6 (spelling) — Blending CVC Words Quiz
+<iframe src="HOST/english-k-M20-L06-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 21 · 21.1 (whack) — Breaking CVC words into 3 sounds
+<iframe src="HOST/english-k-M21-L01-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 21 · 21.2 (memory) — Tapping out each sound
+<iframe src="HOST/english-k-M21-L02-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 21 · 21.3 (beginning) — Counting sounds in a word
+<iframe src="HOST/english-k-M21-L03-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 21 · 21.4 (matchup) — Matching a word to its sounds
+<iframe src="HOST/english-k-M21-L04-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 21 · 21.5 (wordbuild) — Segmenting then blending back
+<iframe src="HOST/english-k-M21-L05-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 21 · 21.6 (spelling) — Segmenting CVC Words Quiz
+<iframe src="HOST/english-k-M21-L06-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 22 · 22.1 (wordbuild) — Building short a CVC words from tiles
+<iframe src="HOST/english-k-M22-L01-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 22 · 22.2 (spelling) — Building short i CVC words from tiles
+<iframe src="HOST/english-k-M22-L02-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 22 · 22.3 (matchup) — Building short o CVC words from tiles
+<iframe src="HOST/english-k-M22-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 22 · 22.4 (wordbuild) — Building short u and e CVC words from tiles
+<iframe src="HOST/english-k-M22-L04-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 22 · 22.5 (whack) — Changing one letter to make a new word
+<iframe src="HOST/english-k-M22-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 22 · 22.6 (spelling) — Building CVC Words Quiz
+<iframe src="HOST/english-k-M22-L06-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 23 · 23.1 (sightword) — Reading: the, of
+<iframe src="HOST/english-k-M23-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 23 · 23.2 (memory) — Reading: to, you
+<iframe src="HOST/english-k-M23-L02-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 23 · 23.3 (whack) — Reading: she, he
+<iframe src="HOST/english-k-M23-L03-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 23 · 23.4 (sightword) — Reading: we, me
+<iframe src="HOST/english-k-M23-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 23 · 23.5 (memory) — Reading all Set I sight words
+<iframe src="HOST/english-k-M23-L05-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 23 · 23.6 (whack) — Sight Words I Quiz
+<iframe src="HOST/english-k-M23-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 24 · 24.1 (sightword) — Reading: my, is
+<iframe src="HOST/english-k-M24-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 24 · 24.2 (matchup) — Reading: are, do
+<iframe src="HOST/english-k-M24-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 24 · 24.3 (memory) — Reading: does, was
+<iframe src="HOST/english-k-M24-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 24 · 24.4 (sightword) — Reading: said, like
+<iframe src="HOST/english-k-M24-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 24 · 24.5 (whack) — Reading all Set II sight words
+<iframe src="HOST/english-k-M24-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 24 · 24.6 (memory) — Sight Words II Quiz
+<iframe src="HOST/english-k-M24-L06-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 25 · 25.1 (sightword) — Reading: for, on
+<iframe src="HOST/english-k-M25-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 25 · 25.2 (matchup) — Reading: they, this
+<iframe src="HOST/english-k-M25-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 25 · 25.3 (memory) — Reading: that, with
+<iframe src="HOST/english-k-M25-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 25 · 25.4 (sightword) — Reading: have, from
+<iframe src="HOST/english-k-M25-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 25 · 25.5 (whack) — Reading all Set III sight words
+<iframe src="HOST/english-k-M25-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 25 · 25.6 (matchup) — Sight Words III Quiz
+<iframe src="HOST/english-k-M25-L06-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 26 · 26.1 (sightword) — Reading a short CVC sentence
+<iframe src="HOST/english-k-M26-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 26 · 26.2 (whack) — Reading sentences with sight words
+<iframe src="HOST/english-k-M26-L02-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 26 · 26.3 (matchup) — Matching a sentence to a picture
+<iframe src="HOST/english-k-M26-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 26 · 26.4 (sightword) — Finding the missing word
+<iframe src="HOST/english-k-M26-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 26 · 26.5 (memory) — Reading two-sentence stories
+<iframe src="HOST/english-k-M26-L05-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 26 · 26.6 (whack) — Decodable Sentences Quiz
+<iframe src="HOST/english-k-M26-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 27 · 27.1 (comprehension) — Listening to a short story
+<iframe src="HOST/english-k-M27-L01-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 27 · 27.2 (sightword) — Telling what happened first
+<iframe src="HOST/english-k-M27-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 27 · 27.3 (matchup) — Telling what happened next
+<iframe src="HOST/english-k-M27-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 27 · 27.4 (memory) — Telling what happened last
+<iframe src="HOST/english-k-M27-L04-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 27 · 27.5 (comprehension) — Retelling the whole story
+<iframe src="HOST/english-k-M27-L05-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 27 · 27.6 (whack) — Listening & Retell Quiz
+<iframe src="HOST/english-k-M27-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 28 · 28.1 (comprehension) — Naming the characters
+<iframe src="HOST/english-k-M28-L01-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 28 · 28.2 (comprehension) — Telling who the main character is
+<iframe src="HOST/english-k-M28-L02-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 28 · 28.3 (comprehension) — Naming where the story happens (setting)
+<iframe src="HOST/english-k-M28-L03-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 28 · 28.4 (comprehension) — Describing a character
+<iframe src="HOST/english-k-M28-L04-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 28 · 28.5 (comprehension) — Matching characters to their story
+<iframe src="HOST/english-k-M28-L05-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 28 · 28.6 (whack) — Characters & Setting Quiz
+<iframe src="HOST/english-k-M28-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 29 · 29.1 (sightword) — Telling real from make-believe
+<iframe src="HOST/english-k-M29-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 29 · 29.2 (matchup) — Choosing things that could really happen
+<iframe src="HOST/english-k-M29-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 29 · 29.3 (memory) — Choosing make-believe events
+<iframe src="HOST/english-k-M29-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 29 · 29.4 (sightword) — Sorting real and pretend pictures
+<iframe src="HOST/english-k-M29-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 29 · 29.5 (matchup) — Explaining why something is make-believe
+<iframe src="HOST/english-k-M29-L05-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 29 · 29.6 (whack) — Reality vs. Make-Believe Quiz
+<iframe src="HOST/english-k-M29-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 30 · 30.1 (sightword) — Sorting animals
+<iframe src="HOST/english-k-M30-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 30 · 30.2 (memory) — Sorting foods
+<iframe src="HOST/english-k-M30-L02-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 30 · 30.3 (matchup) — Sorting colors
+<iframe src="HOST/english-k-M30-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 30 · 30.4 (sightword) — Sorting things that go together
+<iframe src="HOST/english-k-M30-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 30 · 30.5 (spelling) — Naming a category for a group of words
+<iframe src="HOST/english-k-M30-L05-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 30 · 30.6 (memory) — Sorting into Categories Quiz
+<iframe src="HOST/english-k-M30-L06-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 31 · 31.1 (sightword) — Finding naming words for people
+<iframe src="HOST/english-k-M31-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 31 · 31.2 (matchup) — Finding naming words for places
+<iframe src="HOST/english-k-M31-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 31 · 31.3 (memory) — Finding naming words for things
+<iframe src="HOST/english-k-M31-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 31 · 31.4 (sightword) — Finding naming words for animals
+<iframe src="HOST/english-k-M31-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 31 · 31.5 (spelling) — Choosing the noun in a sentence
+<iframe src="HOST/english-k-M31-L05-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 31 · 31.6 (whack) — Naming Words (Nouns) Quiz
+<iframe src="HOST/english-k-M31-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 32 · 32.1 (sightword) — Finding action words (run, jump)
+<iframe src="HOST/english-k-M32-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 32 · 32.2 (matchup) — Matching an action to a picture
+<iframe src="HOST/english-k-M32-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 32 · 32.3 (memory) — Choosing the action word
+<iframe src="HOST/english-k-M32-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 32 · 32.4 (sightword) — Acting out a verb
+<iframe src="HOST/english-k-M32-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 32 · 32.5 (whack) — Using an action word in a sentence
+<iframe src="HOST/english-k-M32-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 32 · 32.6 (whack) — Action Words (Verbs) Quiz
+<iframe src="HOST/english-k-M32-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 33 · 33.1 (sightword) — Drawing a picture about a topic
+<iframe src="HOST/english-k-M33-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 33 · 33.2 (beginning) — Labeling a picture with a beginning letter
+<iframe src="HOST/english-k-M33-L02-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 33 · 33.3 (matchup) — Labeling a picture with a CVC word
+<iframe src="HOST/english-k-M33-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 33 · 33.4 (sightword) — Adding a label for a person or place
+<iframe src="HOST/english-k-M33-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 33 · 33.5 (memory) — Telling about a picture with words
+<iframe src="HOST/english-k-M33-L05-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 33 · 33.6 (whack) — Drawing & Labeling Quiz
+<iframe src="HOST/english-k-M33-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 34 · 34.1 (sightword) — Saying a complete sentence
+<iframe src="HOST/english-k-M34-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 34 · 34.2 (beginning) — Starting a sentence with a capital letter
+<iframe src="HOST/english-k-M34-L02-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 34 · 34.3 (matchup) — Putting spaces between words
+<iframe src="HOST/english-k-M34-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 34 · 34.4 (sightword) — Ending a sentence with a period
+<iframe src="HOST/english-k-M34-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 34 · 34.5 (spelling) — Writing a simple sentence
+<iframe src="HOST/english-k-M34-L05-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 34 · 34.6 (memory) — Dictating & Writing a Sentence Quiz
+<iframe src="HOST/english-k-M34-L06-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 35 · 35.1 (sightword) — Describing an object with words
+<iframe src="HOST/english-k-M35-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 35 · 35.2 (matchup) — Listening while others speak
+<iframe src="HOST/english-k-M35-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 35 · 35.3 (memory) — Taking turns in a conversation
+<iframe src="HOST/english-k-M35-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 35 · 35.4 (sightword) — Asking a question
+<iframe src="HOST/english-k-M35-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 35 · 35.5 (whack) — Answering with a complete thought
+<iframe src="HOST/english-k-M35-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 35 · 35.6 (whack) — Describe & Take Turns Quiz
+<iframe src="HOST/english-k-M35-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 36 · 36.1 (beginning) — Letters and sounds review
+<iframe src="HOST/english-k-M36-L01-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 36 · 36.2 (rhyme) — Rhyme and syllable review
+<iframe src="HOST/english-k-M36-L02-rhyme.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 36 · 36.3 (whack) — CVC reading review
+<iframe src="HOST/english-k-M36-L03-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 36 · 36.4 (sightword) — Sight words review
+<iframe src="HOST/english-k-M36-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 36 · 36.5 (whack) — Comprehension review
+<iframe src="HOST/english-k-M36-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 36 · 36.6 (whack) — Review & Assessment Quiz
+<iframe src="HOST/english-k-M36-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
