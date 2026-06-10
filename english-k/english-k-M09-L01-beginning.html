@@ -55,7 +55,7 @@
     <div class="grid" id="grid"></div>
     <div class="msg" id="msg"></div>
     <button class="next" id="next" onclick="nextRound()">Next ▶</button>
-    <div class="score" id="score">Score: 0 / 0</div>
+    <div class="score" id="score">Round 1 of 12 · Score: 0</div>
   </div>
 
   <div class="brandfooter">
@@ -74,7 +74,8 @@ const BANK = [
   {word:"cap", end:"p", endsound:"p",  img:"https://media.base44.com/images/public/6a1efd8efa1513ab48247266/2dfacf4d7_generated_image.png"},
   {word:"pen", end:"n", endsound:"nnn",img:"https://media.base44.com/images/public/6a1efd8efa1513ab48247266/fd8028baa_generated_image.png"},
 ];
-let target, options, score=0, rounds=0, answered=false;
+const TOTAL=12;
+let target, options, score=0, rounds=0, answered=false, queue=[];
 
 function shuffle(a){return a.map(x=>[Math.random(),x]).sort((p,q)=>p[0]-q[0]).map(p=>p[1]);}
 function labelHtml(w){ return w.slice(0,-1)+'<span class="end">'+w.slice(-1)+'</span>'; }
@@ -88,12 +89,22 @@ function speak(text){
 }
 function sayPrompt(){ speak(`${target.word}. ${target.word} ends with ${target.endsound}.`); }
 
+function buildQueue(){
+  queue=[];
+  while(queue.length<TOTAL){
+    let batch=shuffle(BANK.slice());
+    // avoid same item twice in a row across batch boundary
+    if(queue.length && batch[0].word===queue[queue.length-1].word){ batch.push(batch.shift()); }
+    queue=queue.concat(batch);
+  }
+  queue=queue.slice(0,TOTAL);
+}
 function newRound(){
   answered=false;
   document.getElementById('msg').textContent="";
   document.getElementById('next').style.display="none";
   const pool=shuffle(BANK);
-  target=pool[0];
+  target = queue[rounds];
   // pick a distractor that ends DIFFERENTLY, plus one matching end if available
   const sameEnd = pool.find((p,i)=> i>0 && p.end===target.end);
   let opts=[target];
@@ -131,11 +142,29 @@ function choose(o,el){
     speak(`${o.word} ends with ${o.endsound}. We want ${target.endsound}.`);
     document.querySelectorAll('.pick').forEach((p,i)=>{ if(options[i].end===target.end) p.classList.add('correct'); });
   }
-  document.getElementById('score').textContent=`Score: ${score} / ${rounds}`;
+  document.getElementById('score').textContent=`Round ${Math.min(rounds+1,TOTAL)} of ${TOTAL} · Score: ${score}`;
+  if(rounds>=TOTAL){ document.getElementById('next').textContent='See My Score ▶'; }
   document.getElementById('next').style.display="inline-block";
 }
-function nextRound(){ newRound(); }
-newRound();
+function nextRound(){
+  if(rounds>=TOTAL){ finish(); return; }
+  newRound();
+}
+function finish(){
+  const card=document.querySelector('.card');
+  const pct=Math.round(score/TOTAL*100);
+  let star = pct>=90?'🌟🌟🌟': pct>=70?'🌟🌟':'🌟';
+  card.innerHTML=`<div style="text-align:center;padding:20px 6px;">
+    <div style="font-size:2.6rem;">${star}</div>
+    <h2 style="color:var(--blue);margin:.3rem 0;">Great job!</h2>
+    <p style="font-size:1.2rem;color:var(--ink);">You got <b>${score} of ${TOTAL}</b> right (${pct}%).</p>
+    <p style="color:var(--ink);">You are learning your ending sounds!</p>
+    <button class="listen" onclick="restart()">▶ Play Again</button>
+  </div>`;
+  speak(`Great job! You got ${score} out of ${TOTAL} right.`);
+}
+function restart(){ location.reload(); }
+buildQueue(); newRound();
 </script>
 </body>
 </html>
