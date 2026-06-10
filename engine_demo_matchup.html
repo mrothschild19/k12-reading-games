@@ -1,0 +1,35 @@
+<!doctype html><html><head><meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<title>🧩 Match-Up</title><style>
+*{box-sizing:border-box;font-family:'Segoe UI',system-ui,sans-serif}
+body{margin:0;background:#F5F6FB;color:#3D49A0;padding:18px}
+.wrap{max-width:680px;margin:0 auto;background:#fff;border:3px solid #A9B2E0;border-radius:18px;overflow:hidden;box-shadow:0 8px 28px rgba(61,73,160,.15)}
+.hd{background:linear-gradient(135deg,#4F5DB0,#3D49A0);color:#fff;padding:16px 20px}
+.hd h1{margin:0;font-size:22px}.hd p{margin:4px 0 0;opacity:.9;font-size:14px}
+.bd{padding:22px}
+.score{font-weight:700;color:#3D49A0;margin-bottom:12px}
+.btn{background:#4F5DB0;color:#fff;border:0;border-radius:12px;padding:12px 18px;font-size:16px;font-weight:700;cursor:pointer}
+.btn:hover{background:#3D49A0}
+.tile{display:inline-flex;align-items:center;justify-content:center;background:#F5F6FB;border:2px solid #A9B2E0;border-radius:12px;font-weight:800;cursor:pointer;user-select:none;transition:.12s}
+.tile:hover{border-color:#4F5DB0;transform:translateY(-2px)}
+.good{background:#3aa657!important;color:#fff!important;border-color:#3aa657!important}
+.bad{background:#d9534f!important;color:#fff!important;border-color:#d9534f!important}
+.banner{margin-top:18px;text-align:center}
+.banner a{display:inline-block;background:#3D49A0;color:#fff;text-decoration:none;font-weight:800;padding:12px 20px;border-radius:12px}
+.verse{margin-top:14px;font-style:italic;color:#4F5DB0;text-align:center;font-size:14px}
+</style></head><body><div class=wrap>
+<div class=hd><h1>🧩 Match-Up</h1><p>Match each word to its picture.</p></div>
+<div class=bd><div class=score id=score>Score: 0</div><div id=game></div>
+<div class=verse>"Let the wise listen and add to their learning." — Proverbs 1:5</div>
+<div class=banner><a href="https://docs.google.com/forms/d/e/1FAIpQLSempv0GyGaMueoDkb4aLNtsnbai_XNLePnFKbfef1dygab0mw/viewform" target=_blank>📬 SUBMIT YOUR WORK HERE</a></div>
+</div></div>
+<script>let score=0;const sc=document.getElementById('score');function add(n){score+=n;sc.textContent='Score: '+score}
+
+const pairs=[['CAT','🐱'],['DOG','🐶'],['SUN','☀️'],['FISH','🐟'],['STAR','⭐'],['TREE','🌳']];
+const g=document.getElementById('game');let picked=null,done=0;
+const words=pairs.map(p=>p[0]),pics=pairs.slice().sort(()=>Math.random()-.5);
+g.innerHTML='<p>Tap a word, then tap its picture.</p><div style="display:grid;grid-template-columns:1fr 1fr;gap:18px"><div id=col1></div><div id=col2></div></div>';
+const c1=document.getElementById('col1'),c2=document.getElementById('col2');
+words.forEach(w=>{const b=document.createElement('div');b.className='tile';b.style.cssText+='height:54px;margin:6px 0;width:100%;font-size:18px';b.textContent=w;b.onclick=()=>{if(b.classList.contains('good'))return;document.querySelectorAll('#col1 .sel').forEach(x=>x.classList.remove('sel'));b.classList.add('sel');b.style.borderColor='#3D49A0';picked=w;};c1.appendChild(b);});
+pics.forEach(([w,p])=>{const b=document.createElement('div');b.className='tile';b.style.cssText+='height:54px;margin:6px 0;width:100%;font-size:26px';b.textContent=p;b.dataset.w=w;b.onclick=()=>{if(!picked||b.classList.contains('good'))return;if(b.dataset.w===picked){b.classList.add('good');document.querySelectorAll('#col1 .tile').forEach(x=>{if(x.textContent===picked){x.classList.add('good');x.classList.remove('sel')}});add(10);done++;picked=null;if(done===pairs.length)g.innerHTML+='<p style=\'font-weight:800;color:#3aa657\'>🎉 All matched! Great job!</p>';}else{b.classList.add('bad');setTimeout(()=>b.classList.remove('bad'),500);}};c2.appendChild(b);});
+</script></body></html>
