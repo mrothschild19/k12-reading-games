@@ -59,7 +59,7 @@ const SUBMIT_FORM="https://docs.google.com/forms/d/e/1FAIpQLSempv0GyGaMueoDkb4aL
 const VERSE="Let the wise listen and add to their learning. \u2014 Proverbs 1:5";
 const $=id=>document.getElementById(id);
 
-const WORDS=["CAT", "STAR", "FISH", "TREE", "MOON", "HAND"];let idx=0,score=0;
+const WORDS=["SLOW", "HAPPY", "SAD", "BIG", "HOT", "DOWN"];let idx=0,score=0;
 function render(){const w=WORDS[idx];const scr=w.split('').sort(()=>Math.random()-.5);let built='';
   $("stage").innerHTML='<p class="sub">Unscramble the letters to spell the word.</p><div id=ans class="tiles" style="border:2px dashed var(--gold);border-radius:12px;padding:8px"></div><div id=bank class="bank"></div><div class="feedback" id=fb></div>';
   const ans=$("ans"),bank=$("bank");

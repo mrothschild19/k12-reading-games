@@ -59,7 +59,7 @@ const SUBMIT_FORM="https://docs.google.com/forms/d/e/1FAIpQLSempv0GyGaMueoDkb4aL
 const VERSE="Let the wise listen and add to their learning. \u2014 Proverbs 1:5";
 const $=id=>document.getElementById(id);
 
-const WORDS=["CAT", "DOG", "SUN", "PIG", "HAT", "BOX"];let qi=0,score=0,built=[];
+const WORDS=["SLED", "STOP", "TRAP", "FROG", "GRIN", "PLUM"];let qi=0,score=0,built=[];
 function render(){
   const w=WORDS[qi];built=[];$("qnum").textContent=qi+1;$("qtot").textContent=WORDS.length;
   $("pbar").style.width=(qi/WORDS.length*100)+"%";
