@@ -1,0 +1,650 @@
+EMBED SNIPPETS — paste into a Gamma card (replace HOST with your hosting URL)
+============================================================
+
+Module 1 · 1.1 (comprehension) — Warm-up review of key skills
+<iframe src="HOST/english-2-M01-L01-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 1 · 1.2 (sightword) — Practice with mixed examples
+<iframe src="HOST/english-2-M01-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 1 · 1.3 (matchup) — Spotting and fixing tricky parts
+<iframe src="HOST/english-2-M01-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 1 · 1.4 (memory) — Putting the skills together
+<iframe src="HOST/english-2-M01-L04-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 1 · 1.5 (whack) — Show what you know
+<iframe src="HOST/english-2-M01-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 1 · 1.6 (comprehension) — Welcome & Grade 1 Phonics Review Quiz
+<iframe src="HOST/english-2-M01-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 2 · 2.1 (sightword) — Hearing and reading the a_e pattern
+<iframe src="HOST/english-2-M02-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 2 · 2.2 (matchup) — Hearing and reading the ai pattern
+<iframe src="HOST/english-2-M02-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 2 · 2.3 (memory) — Hearing and reading the ay pattern
+<iframe src="HOST/english-2-M02-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 2 · 2.4 (wordbuild) — Blending and decoding words with long vowel a
+<iframe src="HOST/english-2-M02-L04-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 2 · 2.5 (spelling) — Sorting and spelling words with long vowel a
+<iframe src="HOST/english-2-M02-L05-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 2 · 2.6 (beginning) — Long Vowel a Quiz
+<iframe src="HOST/english-2-M02-L06-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 3 · 3.1 (whack) — Hearing and reading the ee pattern
+<iframe src="HOST/english-2-M03-L01-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 3 · 3.2 (sightword) — Hearing and reading the ea pattern
+<iframe src="HOST/english-2-M03-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 3 · 3.3 (matchup) — Hearing and reading the e_e pattern
+<iframe src="HOST/english-2-M03-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 3 · 3.4 (wordbuild) — Blending and decoding words with long vowel e
+<iframe src="HOST/english-2-M03-L04-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 3 · 3.5 (spelling) — Sorting and spelling words with long vowel e
+<iframe src="HOST/english-2-M03-L05-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 3 · 3.6 (beginning) — Long Vowel e Quiz
+<iframe src="HOST/english-2-M03-L06-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 4 · 4.1 (memory) — Hearing and reading the i_e pattern
+<iframe src="HOST/english-2-M04-L01-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 4 · 4.2 (whack) — Hearing and reading the igh pattern
+<iframe src="HOST/english-2-M04-L02-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 4 · 4.3 (sightword) — Hearing and reading the ie pattern
+<iframe src="HOST/english-2-M04-L03-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 4 · 4.4 (wordbuild) — Blending and decoding words with long vowel i
+<iframe src="HOST/english-2-M04-L04-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 4 · 4.5 (spelling) — Sorting and spelling words with long vowel i
+<iframe src="HOST/english-2-M04-L05-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 4 · 4.6 (beginning) — Long Vowel i Quiz
+<iframe src="HOST/english-2-M04-L06-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 5 · 5.1 (matchup) — Hearing and reading the o_e pattern
+<iframe src="HOST/english-2-M05-L01-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 5 · 5.2 (memory) — Hearing and reading the oa pattern
+<iframe src="HOST/english-2-M05-L02-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 5 · 5.3 (whack) — Hearing and reading the ow pattern
+<iframe src="HOST/english-2-M05-L03-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 5 · 5.4 (wordbuild) — Blending and decoding words with long vowel o
+<iframe src="HOST/english-2-M05-L04-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 5 · 5.5 (spelling) — Sorting and spelling words with long vowel o
+<iframe src="HOST/english-2-M05-L05-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 5 · 5.6 (comprehension) — Long Vowel o Quiz
+<iframe src="HOST/english-2-M05-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 6 · 6.1 (sightword) — Hearing and reading the u_e pattern
+<iframe src="HOST/english-2-M06-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 6 · 6.2 (matchup) — Hearing and reading the ue pattern
+<iframe src="HOST/english-2-M06-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 6 · 6.3 (memory) — Hearing and reading the ew pattern
+<iframe src="HOST/english-2-M06-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 6 · 6.4 (beginning) — Blending and decoding words with long vowel u
+<iframe src="HOST/english-2-M06-L04-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 6 · 6.5 (wordbuild) — Sorting and spelling words with long vowel u
+<iframe src="HOST/english-2-M06-L05-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 6 · 6.6 (comprehension) — Long Vowel u Quiz
+<iframe src="HOST/english-2-M06-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 7 · 7.1 (beginning) — Introducing distinguishing long vs. short vowels
+<iframe src="HOST/english-2-M07-L01-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 7 · 7.2 (whack) — Clear examples of distinguishing long vs. short vowels
+<iframe src="HOST/english-2-M07-L02-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 7 · 7.3 (matchup) — Practicing distinguishing long vs. short vowels
+<iframe src="HOST/english-2-M07-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 7 · 7.4 (beginning) — Applying distinguishing long vs. short vowels
+<iframe src="HOST/english-2-M07-L04-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 7 · 7.5 (whack) — Mastering distinguishing long vs. short vowels
+<iframe src="HOST/english-2-M07-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 7 · 7.6 (comprehension) — Distinguishing Long vs. Short Vowels Quiz
+<iframe src="HOST/english-2-M07-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 8 · 8.1 (comprehension) — Warm-up review of key skills
+<iframe src="HOST/english-2-M08-L01-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 8 · 8.2 (sightword) — Practice with mixed examples
+<iframe src="HOST/english-2-M08-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 8 · 8.3 (memory) — Spotting and fixing tricky parts
+<iframe src="HOST/english-2-M08-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 8 · 8.4 (matchup) — Putting the skills together
+<iframe src="HOST/english-2-M08-L04-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 8 · 8.5 (sightword) — Show what you know
+<iframe src="HOST/english-2-M08-L05-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 8 · 8.6 (beginning) — Vowel Teams Review & Practice Quiz
+<iframe src="HOST/english-2-M08-L06-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 9 · 9.1 (memory) — Introducing ar, or
+<iframe src="HOST/english-2-M09-L01-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 9 · 9.2 (whack) — Clear examples of ar, or
+<iframe src="HOST/english-2-M09-L02-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 9 · 9.3 (sightword) — Practicing ar, or
+<iframe src="HOST/english-2-M09-L03-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 9 · 9.4 (matchup) — Applying ar, or
+<iframe src="HOST/english-2-M09-L04-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 9 · 9.5 (memory) — Mastering ar, or
+<iframe src="HOST/english-2-M09-L05-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 9 · 9.6 (comprehension) — ar, or Quiz
+<iframe src="HOST/english-2-M09-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 10 · 10.1 (whack) — Introducing er, ir, ur
+<iframe src="HOST/english-2-M10-L01-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 10 · 10.2 (sightword) — Clear examples of er, ir, ur
+<iframe src="HOST/english-2-M10-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 10 · 10.3 (matchup) — Practicing er, ir, ur
+<iframe src="HOST/english-2-M10-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 10 · 10.4 (memory) — Applying er, ir, ur
+<iframe src="HOST/english-2-M10-L04-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 10 · 10.5 (whack) — Mastering er, ir, ur
+<iframe src="HOST/english-2-M10-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 10 · 10.6 (comprehension) — er, ir, ur Quiz
+<iframe src="HOST/english-2-M10-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 11 · 11.1 (sightword) — Introducing ou, ow
+<iframe src="HOST/english-2-M11-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 11 · 11.2 (matchup) — Clear examples of ou, ow
+<iframe src="HOST/english-2-M11-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 11 · 11.3 (memory) — Practicing ou, ow
+<iframe src="HOST/english-2-M11-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 11 · 11.4 (whack) — Applying ou, ow
+<iframe src="HOST/english-2-M11-L04-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 11 · 11.5 (sightword) — Mastering ou, ow
+<iframe src="HOST/english-2-M11-L05-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 11 · 11.6 (comprehension) — ou, ow Quiz
+<iframe src="HOST/english-2-M11-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 12 · 12.1 (matchup) — Introducing oi, oy
+<iframe src="HOST/english-2-M12-L01-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 12 · 12.2 (memory) — Clear examples of oi, oy
+<iframe src="HOST/english-2-M12-L02-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 12 · 12.3 (whack) — Practicing oi, oy
+<iframe src="HOST/english-2-M12-L03-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 12 · 12.4 (sightword) — Applying oi, oy
+<iframe src="HOST/english-2-M12-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 12 · 12.5 (matchup) — Mastering oi, oy
+<iframe src="HOST/english-2-M12-L05-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 12 · 12.6 (comprehension) — oi, oy Quiz
+<iframe src="HOST/english-2-M12-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 13 · 13.1 (memory) — Introducing aw, au, all
+<iframe src="HOST/english-2-M13-L01-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 13 · 13.2 (whack) — Clear examples of aw, au, all
+<iframe src="HOST/english-2-M13-L02-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 13 · 13.3 (sightword) — Practicing aw, au, all
+<iframe src="HOST/english-2-M13-L03-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 13 · 13.4 (matchup) — Applying aw, au, all
+<iframe src="HOST/english-2-M13-L04-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 13 · 13.5 (memory) — Mastering aw, au, all
+<iframe src="HOST/english-2-M13-L05-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 13 · 13.6 (comprehension) — aw, au, all Quiz
+<iframe src="HOST/english-2-M13-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 14 · 14.1 (whack) — Introducing soft c and soft g
+<iframe src="HOST/english-2-M14-L01-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 14 · 14.2 (sightword) — Clear examples of soft c and soft g
+<iframe src="HOST/english-2-M14-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 14 · 14.3 (matchup) — Practicing soft c and soft g
+<iframe src="HOST/english-2-M14-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 14 · 14.4 (memory) — Applying soft c and soft g
+<iframe src="HOST/english-2-M14-L04-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 14 · 14.5 (whack) — Mastering soft c and soft g
+<iframe src="HOST/english-2-M14-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 14 · 14.6 (comprehension) — Soft c and Soft g Quiz
+<iframe src="HOST/english-2-M14-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 15 · 15.1 (sightword) — Hearing and reading the kn pattern
+<iframe src="HOST/english-2-M15-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 15 · 15.2 (matchup) — Hearing and reading the wr pattern
+<iframe src="HOST/english-2-M15-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 15 · 15.3 (memory) — Hearing and reading the mb pattern
+<iframe src="HOST/english-2-M15-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 15 · 15.4 (spelling) — Blending and decoding words with silent letters
+<iframe src="HOST/english-2-M15-L04-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 15 · 15.5 (wordbuild) — Sorting and spelling words with silent letters
+<iframe src="HOST/english-2-M15-L05-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 15 · 15.6 (beginning) — Silent Letters Quiz
+<iframe src="HOST/english-2-M15-L06-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 16 · 16.1 (spelling) — Introducing closed syllables
+<iframe src="HOST/english-2-M16-L01-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 16 · 16.2 (wordbuild) — Clear examples of closed syllables
+<iframe src="HOST/english-2-M16-L02-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 16 · 16.3 (matchup) — Practicing closed syllables
+<iframe src="HOST/english-2-M16-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 16 · 16.4 (spelling) — Applying closed syllables
+<iframe src="HOST/english-2-M16-L04-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 16 · 16.5 (wordbuild) — Mastering closed syllables
+<iframe src="HOST/english-2-M16-L05-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 16 · 16.6 (comprehension) — Closed Syllables Quiz
+<iframe src="HOST/english-2-M16-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 17 · 17.1 (spelling) — Introducing open & silent-e syllables
+<iframe src="HOST/english-2-M17-L01-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 17 · 17.2 (wordbuild) — Clear examples of open & silent-e syllables
+<iframe src="HOST/english-2-M17-L02-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 17 · 17.3 (matchup) — Practicing open & silent-e syllables
+<iframe src="HOST/english-2-M17-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 17 · 17.4 (spelling) — Applying open & silent-e syllables
+<iframe src="HOST/english-2-M17-L04-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 17 · 17.5 (wordbuild) — Mastering open & silent-e syllables
+<iframe src="HOST/english-2-M17-L05-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 17 · 17.6 (comprehension) — Open & Silent-e Syllables Quiz
+<iframe src="HOST/english-2-M17-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 18 · 18.1 (whack) — Hearing and reading the -ed pattern
+<iframe src="HOST/english-2-M18-L01-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 18 · 18.2 (sightword) — Hearing and reading the -ing pattern
+<iframe src="HOST/english-2-M18-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 18 · 18.3 (memory) — Hearing and reading the -s pattern
+<iframe src="HOST/english-2-M18-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 18 · 18.4 (spelling) — Blending and decoding words with inflectional endings
+<iframe src="HOST/english-2-M18-L04-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 18 · 18.5 (wordbuild) — Sorting and spelling words with inflectional endings
+<iframe src="HOST/english-2-M18-L05-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 18 · 18.6 (comprehension) — Inflectional Endings Quiz
+<iframe src="HOST/english-2-M18-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 19 · 19.1 (whack) — Meet the word parts in un-, re-, dis-
+<iframe src="HOST/english-2-M19-L01-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 19 · 19.2 (sightword) — What each part means
+<iframe src="HOST/english-2-M19-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 19 · 19.3 (spelling) — Building words with un-, re-, dis-
+<iframe src="HOST/english-2-M19-L03-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 19 · 19.4 (memory) — Breaking big words into parts
+<iframe src="HOST/english-2-M19-L04-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 19 · 19.5 (whack) — Using the parts to unlock meaning
+<iframe src="HOST/english-2-M19-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 19 · 19.6 (comprehension) — un-, re-, dis- Quiz
+<iframe src="HOST/english-2-M19-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 20 · 20.1 (sightword) — Meet the word parts in -ful, -less, -ly
+<iframe src="HOST/english-2-M20-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 20 · 20.2 (matchup) — What each part means
+<iframe src="HOST/english-2-M20-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 20 · 20.3 (wordbuild) — Building words with -ful, -less, -ly
+<iframe src="HOST/english-2-M20-L03-wordbuild.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 20 · 20.4 (memory) — Breaking big words into parts
+<iframe src="HOST/english-2-M20-L04-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 20 · 20.5 (whack) — Using the parts to unlock meaning
+<iframe src="HOST/english-2-M20-L05-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 20 · 20.6 (comprehension) — -ful, -less, -ly Quiz
+<iframe src="HOST/english-2-M20-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 21 · 21.1 (sightword) — Introducing sight word mastery
+<iframe src="HOST/english-2-M21-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 21 · 21.2 (whack) — Clear examples of sight word mastery
+<iframe src="HOST/english-2-M21-L02-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 21 · 21.3 (memory) — Practicing sight word mastery
+<iframe src="HOST/english-2-M21-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 21 · 21.4 (matchup) — Applying sight word mastery
+<iframe src="HOST/english-2-M21-L04-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 21 · 21.5 (sightword) — Mastering sight word mastery
+<iframe src="HOST/english-2-M21-L05-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 21 · 21.6 (comprehension) — Sight Word Mastery Quiz
+<iframe src="HOST/english-2-M21-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 22 · 22.1 (matchup) — Reading with accuracy
+<iframe src="HOST/english-2-M22-L01-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 22 · 22.2 (memory) — Reading at a smooth rate
+<iframe src="HOST/english-2-M22-L02-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 22 · 22.3 (whack) — Reading with expression
+<iframe src="HOST/english-2-M22-L03-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 22 · 22.4 (sightword) — Phrasing with punctuation
+<iframe src="HOST/english-2-M22-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 22 · 22.5 (spelling) — Re-reading to build fluency
+<iframe src="HOST/english-2-M22-L05-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 22 · 22.6 (comprehension) — Fluency - Reading Decodable Passages Quiz
+<iframe src="HOST/english-2-M22-L06-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 23 · 23.1 (comprehension) — What is main idea & key details?
+<iframe src="HOST/english-2-M23-L01-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 23 · 23.2 (comprehension) — Finding main idea & key details in a short text
+<iframe src="HOST/english-2-M23-L02-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 23 · 23.3 (comprehension) — Using text evidence for main idea & key details
+<iframe src="HOST/english-2-M23-L03-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 23 · 23.4 (comprehension) — Practicing main idea & key details with a passage
+<iframe src="HOST/english-2-M23-L04-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 23 · 23.5 (comprehension) — Explaining main idea & key details in my own words
+<iframe src="HOST/english-2-M23-L05-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 23 · 23.6 (whack) — Comprehension - Main Idea & Key Details Quiz
+<iframe src="HOST/english-2-M23-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 24 · 24.1 (comprehension) — What is story structure?
+<iframe src="HOST/english-2-M24-L01-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 24 · 24.2 (comprehension) — Finding story structure in a short text
+<iframe src="HOST/english-2-M24-L02-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 24 · 24.3 (comprehension) — Using text evidence for story structure
+<iframe src="HOST/english-2-M24-L03-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 24 · 24.4 (comprehension) — Practicing story structure with a passage
+<iframe src="HOST/english-2-M24-L04-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 24 · 24.5 (comprehension) — Explaining story structure in my own words
+<iframe src="HOST/english-2-M24-L05-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 24 · 24.6 (whack) — Comprehension - Story Structure Quiz
+<iframe src="HOST/english-2-M24-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 25 · 25.1 (matchup) — What is recount the central message/lesson?
+<iframe src="HOST/english-2-M25-L01-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 25 · 25.2 (memory) — Finding recount the central message/lesson in a short text
+<iframe src="HOST/english-2-M25-L02-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 25 · 25.3 (sightword) — Using text evidence for recount the central message/lesson
+<iframe src="HOST/english-2-M25-L03-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 25 · 25.4 (comprehension) — Practicing recount the central message/lesson with a passage
+<iframe src="HOST/english-2-M25-L04-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 25 · 25.5 (matchup) — Explaining recount the central message/lesson in my own words
+<iframe src="HOST/english-2-M25-L05-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 25 · 25.6 (whack) — Comprehension - Recount the Central Message/Lesson Quiz
+<iframe src="HOST/english-2-M25-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 26 · 26.1 (comprehension) — What is compare two versions of a story?
+<iframe src="HOST/english-2-M26-L01-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 26 · 26.2 (comprehension) — Finding compare two versions of a story in a short text
+<iframe src="HOST/english-2-M26-L02-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 26 · 26.3 (comprehension) — Using text evidence for compare two versions of a story
+<iframe src="HOST/english-2-M26-L03-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 26 · 26.4 (comprehension) — Practicing compare two versions of a story with a passage
+<iframe src="HOST/english-2-M26-L04-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 26 · 26.5 (comprehension) — Explaining compare two versions of a story in my own words
+<iframe src="HOST/english-2-M26-L05-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 26 · 26.6 (whack) — Comprehension - Compare Two Versions of a Story Quiz
+<iframe src="HOST/english-2-M26-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 27 · 27.1 (memory) — Introducing captions, bold, index, glossary
+<iframe src="HOST/english-2-M27-L01-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 27 · 27.2 (sightword) — Clear examples of captions, bold, index, glossary
+<iframe src="HOST/english-2-M27-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 27 · 27.3 (matchup) — Practicing captions, bold, index, glossary
+<iframe src="HOST/english-2-M27-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 27 · 27.4 (memory) — Applying captions, bold, index, glossary
+<iframe src="HOST/english-2-M27-L04-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 27 · 27.5 (sightword) — Mastering captions, bold, index, glossary
+<iframe src="HOST/english-2-M27-L05-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 27 · 27.6 (whack) — Text Features - Captions, Bold, Index, Glossary Quiz
+<iframe src="HOST/english-2-M27-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 28 · 28.1 (spelling) — Understanding synonyms & antonyms
+<iframe src="HOST/english-2-M28-L01-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 28 · 28.2 (matchup) — Clear examples of synonyms & antonyms
+<iframe src="HOST/english-2-M28-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 28 · 28.3 (memory) — Using synonyms & antonyms in sentences
+<iframe src="HOST/english-2-M28-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 28 · 28.4 (spelling) — Working out synonyms & antonyms from context
+<iframe src="HOST/english-2-M28-L04-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 28 · 28.5 (sightword) — Practicing synonyms & antonyms
+<iframe src="HOST/english-2-M28-L05-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 28 · 28.6 (matchup) — Vocabulary - Synonyms & Antonyms Quiz
+<iframe src="HOST/english-2-M28-L06-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 29 · 29.1 (memory) — Understanding multiple-meaning & compound words
+<iframe src="HOST/english-2-M29-L01-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 29 · 29.2 (sightword) — Clear examples of multiple-meaning & compound words
+<iframe src="HOST/english-2-M29-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 29 · 29.3 (matchup) — Using multiple-meaning & compound words in sentences
+<iframe src="HOST/english-2-M29-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 29 · 29.4 (spelling) — Working out multiple-meaning & compound words from context
+<iframe src="HOST/english-2-M29-L04-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 29 · 29.5 (memory) — Practicing multiple-meaning & compound words
+<iframe src="HOST/english-2-M29-L05-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 29 · 29.6 (whack) — Vocabulary - Multiple-Meaning & Compound Words Quiz
+<iframe src="HOST/english-2-M29-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 30 · 30.1 (spelling) — What are irregular plural & collective nouns?
+<iframe src="HOST/english-2-M30-L01-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 30 · 30.2 (sightword) — Spotting irregular plural & collective nouns in sentences
+<iframe src="HOST/english-2-M30-L02-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 30 · 30.3 (matchup) — Using irregular plural & collective nouns correctly
+<iframe src="HOST/english-2-M30-L03-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 30 · 30.4 (spelling) — Editing for irregular plural & collective nouns
+<iframe src="HOST/english-2-M30-L04-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 30 · 30.5 (memory) — Practicing irregular plural & collective nouns
+<iframe src="HOST/english-2-M30-L05-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 30 · 30.6 (whack) — Grammar - Irregular Plural & Collective Nouns Quiz
+<iframe src="HOST/english-2-M30-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 31 · 31.1 (sightword) — What are verb tenses?
+<iframe src="HOST/english-2-M31-L01-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 31 · 31.2 (matchup) — Spotting verb tenses in sentences
+<iframe src="HOST/english-2-M31-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 31 · 31.3 (memory) — Using verb tenses correctly
+<iframe src="HOST/english-2-M31-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 31 · 31.4 (whack) — Editing for verb tenses
+<iframe src="HOST/english-2-M31-L04-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 31 · 31.5 (sightword) — Practicing verb tenses
+<iframe src="HOST/english-2-M31-L05-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 31 · 31.6 (spelling) — Grammar - Verb Tenses Quiz
+<iframe src="HOST/english-2-M31-L06-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 32 · 32.1 (spelling) — What are reflexive pronouns?
+<iframe src="HOST/english-2-M32-L01-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 32 · 32.2 (matchup) — Spotting reflexive pronouns in sentences
+<iframe src="HOST/english-2-M32-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 32 · 32.3 (memory) — Using reflexive pronouns correctly
+<iframe src="HOST/english-2-M32-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 32 · 32.4 (spelling) — Editing for reflexive pronouns
+<iframe src="HOST/english-2-M32-L04-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 32 · 32.5 (sightword) — Practicing reflexive pronouns
+<iframe src="HOST/english-2-M32-L05-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 32 · 32.6 (whack) — Grammar - Reflexive Pronouns Quiz
+<iframe src="HOST/english-2-M32-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 33 · 33.1 (matchup) — What are adjectives & adverbs?
+<iframe src="HOST/english-2-M33-L01-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 33 · 33.2 (memory) — Spotting adjectives & adverbs in sentences
+<iframe src="HOST/english-2-M33-L02-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 33 · 33.3 (whack) — Using adjectives & adverbs correctly
+<iframe src="HOST/english-2-M33-L03-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 33 · 33.4 (sightword) — Editing for adjectives & adverbs
+<iframe src="HOST/english-2-M33-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 33 · 33.5 (matchup) — Practicing adjectives & adverbs
+<iframe src="HOST/english-2-M33-L05-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 33 · 33.6 (spelling) — Grammar - Adjectives & Adverbs Quiz
+<iframe src="HOST/english-2-M33-L06-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 34 · 34.1 (memory) — What are commas (greetings, lists) & apostrophes?
+<iframe src="HOST/english-2-M34-L01-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 34 · 34.2 (whack) — Spotting commas (greetings, lists) & apostrophes in sentences
+<iframe src="HOST/english-2-M34-L02-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 34 · 34.3 (sightword) — Using commas (greetings, lists) & apostrophes correctly
+<iframe src="HOST/english-2-M34-L03-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 34 · 34.4 (matchup) — Editing for commas (greetings, lists) & apostrophes
+<iframe src="HOST/english-2-M34-L04-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 34 · 34.5 (memory) — Practicing commas (greetings, lists) & apostrophes
+<iframe src="HOST/english-2-M34-L05-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 34 · 34.6 (spelling) — Grammar - Commas (greetings, lists) & Apostrophes Quiz
+<iframe src="HOST/english-2-M34-L06-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 35 · 35.1 (comprehension) — Planning an opinion, narrative, informational piece
+<iframe src="HOST/english-2-M35-L01-comprehension.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 35 · 35.2 (beginning) — Drafting with a clear beginning, middle, and end
+<iframe src="HOST/english-2-M35-L02-beginning.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 35 · 35.3 (whack) — Adding details and organizing my ideas
+<iframe src="HOST/english-2-M35-L03-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 35 · 35.4 (sightword) — Strong word choice and linking words
+<iframe src="HOST/english-2-M35-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 35 · 35.5 (spelling) — Revising and sharing my opinion, narrative, informational writing
+<iframe src="HOST/english-2-M35-L05-spelling.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 35 · 35.6 (whack) — Opinion, Narrative, Informational Quiz
+<iframe src="HOST/english-2-M35-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 36 · 36.1 (whack) — Warm-up review of key skills
+<iframe src="HOST/english-2-M36-L01-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 36 · 36.2 (matchup) — Practice with mixed examples
+<iframe src="HOST/english-2-M36-L02-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 36 · 36.3 (memory) — Spotting and fixing tricky parts
+<iframe src="HOST/english-2-M36-L03-memory.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 36 · 36.4 (sightword) — Putting the skills together
+<iframe src="HOST/english-2-M36-L04-sightword.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 36 · 36.5 (matchup) — Show what you know
+<iframe src="HOST/english-2-M36-L05-matchup.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
+
+Module 36 · 36.6 (whack) — Review, Integration & Assessment Quiz
+<iframe src="HOST/english-2-M36-L06-whack.html" width="100%" height="560" style="border:none;border-radius:14px;" allow="fullscreen"></iframe>
