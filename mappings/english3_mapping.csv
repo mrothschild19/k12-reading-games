@@ -1,0 +1,217 @@
+module,module_title,lesson,skill,grade
+1,Welcome & Grade 2 Review,1.1,Warm-up review of key skills,grade 3
+1,Welcome & Grade 2 Review,1.2,Practice with mixed examples,grade 3
+1,Welcome & Grade 2 Review,1.3,Spotting and fixing tricky parts,grade 3
+1,Welcome & Grade 2 Review,1.4,Putting the skills together,grade 3
+1,Welcome & Grade 2 Review,1.5,Show what you know,grade 3
+1,Welcome & Grade 2 Review,1.6,Welcome & Grade 2 Review Quiz,grade 3
+2,Multisyllabic Decoding: Syllable Division Rules,2.1,Introducing syllable division rules,grade 3
+2,Multisyllabic Decoding: Syllable Division Rules,2.2,Clear examples of syllable division rules,grade 3
+2,Multisyllabic Decoding: Syllable Division Rules,2.3,Practicing syllable division rules,grade 3
+2,Multisyllabic Decoding: Syllable Division Rules,2.4,Applying syllable division rules,grade 3
+2,Multisyllabic Decoding: Syllable Division Rules,2.5,Mastering syllable division rules,grade 3
+2,Multisyllabic Decoding: Syllable Division Rules,2.6,Syllable Division Rules Quiz,grade 3
+3,Multisyllabic Decoding: Open & Closed Syllables,3.1,Introducing open & closed syllables,grade 3
+3,Multisyllabic Decoding: Open & Closed Syllables,3.2,Clear examples of open & closed syllables,grade 3
+3,Multisyllabic Decoding: Open & Closed Syllables,3.3,Practicing open & closed syllables,grade 3
+3,Multisyllabic Decoding: Open & Closed Syllables,3.4,Applying open & closed syllables,grade 3
+3,Multisyllabic Decoding: Open & Closed Syllables,3.5,Mastering open & closed syllables,grade 3
+3,Multisyllabic Decoding: Open & Closed Syllables,3.6,Open & Closed Syllables Quiz,grade 3
+4,Multisyllabic Decoding: Vowel-Team & R-Controlled Syllables,4.1,Introducing vowel-team & r-controlled syllables,grade 3
+4,Multisyllabic Decoding: Vowel-Team & R-Controlled Syllables,4.2,Clear examples of vowel-team & r-controlled syllables,grade 3
+4,Multisyllabic Decoding: Vowel-Team & R-Controlled Syllables,4.3,Practicing vowel-team & r-controlled syllables,grade 3
+4,Multisyllabic Decoding: Vowel-Team & R-Controlled Syllables,4.4,Applying vowel-team & r-controlled syllables,grade 3
+4,Multisyllabic Decoding: Vowel-Team & R-Controlled Syllables,4.5,Mastering vowel-team & r-controlled syllables,grade 3
+4,Multisyllabic Decoding: Vowel-Team & R-Controlled Syllables,4.6,Vowel-Team & R-Controlled Syllables Quiz,grade 3
+5,Multisyllabic Decoding: Consonant-le Syllables,5.1,Introducing consonant-le syllables,grade 3
+5,Multisyllabic Decoding: Consonant-le Syllables,5.2,Clear examples of consonant-le syllables,grade 3
+5,Multisyllabic Decoding: Consonant-le Syllables,5.3,Practicing consonant-le syllables,grade 3
+5,Multisyllabic Decoding: Consonant-le Syllables,5.4,Applying consonant-le syllables,grade 3
+5,Multisyllabic Decoding: Consonant-le Syllables,5.5,Mastering consonant-le syllables,grade 3
+5,Multisyllabic Decoding: Consonant-le Syllables,5.6,Consonant-le Syllables Quiz,grade 3
+6,"Common Prefixes: un-, re-, pre-, dis-, mis-",6.1,"Meet the word parts in un-, re-, pre-, dis-, mis-",grade 3
+6,"Common Prefixes: un-, re-, pre-, dis-, mis-",6.2,What each part means,grade 3
+6,"Common Prefixes: un-, re-, pre-, dis-, mis-",6.3,"Building words with un-, re-, pre-, dis-, mis-",grade 3
+6,"Common Prefixes: un-, re-, pre-, dis-, mis-",6.4,Breaking big words into parts,grade 3
+6,"Common Prefixes: un-, re-, pre-, dis-, mis-",6.5,Using the parts to unlock meaning,grade 3
+6,"Common Prefixes: un-, re-, pre-, dis-, mis-",6.6,"un-, re-, pre-, dis-, mis- Quiz",grade 3
+7,"Common Suffixes: -ful, -less, -ness, -ment",7.1,"Meet the word parts in -ful, -less, -ness, -ment",grade 3
+7,"Common Suffixes: -ful, -less, -ness, -ment",7.2,What each part means,grade 3
+7,"Common Suffixes: -ful, -less, -ness, -ment",7.3,"Building words with -ful, -less, -ness, -ment",grade 3
+7,"Common Suffixes: -ful, -less, -ness, -ment",7.4,Breaking big words into parts,grade 3
+7,"Common Suffixes: -ful, -less, -ness, -ment",7.5,Using the parts to unlock meaning,grade 3
+7,"Common Suffixes: -ful, -less, -ness, -ment",7.6,"-ful, -less, -ness, -ment Quiz",grade 3
+8,"Latin Suffixes: -tion, -sion, -able, -ible",8.1,"Meet the word parts in -tion, -sion, -able, -ible",grade 3
+8,"Latin Suffixes: -tion, -sion, -able, -ible",8.2,What each part means,grade 3
+8,"Latin Suffixes: -tion, -sion, -able, -ible",8.3,"Building words with -tion, -sion, -able, -ible",grade 3
+8,"Latin Suffixes: -tion, -sion, -able, -ible",8.4,Breaking big words into parts,grade 3
+8,"Latin Suffixes: -tion, -sion, -able, -ible",8.5,Using the parts to unlock meaning,grade 3
+8,"Latin Suffixes: -tion, -sion, -able, -ible",8.6,"-tion, -sion, -able, -ible Quiz",grade 3
+9,Roots & Base Words,9.1,Meet the word parts in Roots & Base Words,grade 3
+9,Roots & Base Words,9.2,What each part means,grade 3
+9,Roots & Base Words,9.3,Building words with Roots & Base Words,grade 3
+9,Roots & Base Words,9.4,Breaking big words into parts,grade 3
+9,Roots & Base Words,9.5,Using the parts to unlock meaning,grade 3
+9,Roots & Base Words,9.6,Roots & Base Words Quiz,grade 3
+10,Irregularly Spelled Words,10.1,Introducing irregularly spelled words,grade 3
+10,Irregularly Spelled Words,10.2,Clear examples of irregularly spelled words,grade 3
+10,Irregularly Spelled Words,10.3,Practicing irregularly spelled words,grade 3
+10,Irregularly Spelled Words,10.4,Applying irregularly spelled words,grade 3
+10,Irregularly Spelled Words,10.5,Mastering irregularly spelled words,grade 3
+10,Irregularly Spelled Words,10.6,Irregularly Spelled Words Quiz,grade 3
+11,"Fluency - Rate, Accuracy, Expression",11.1,Reading with accuracy,grade 3
+11,"Fluency - Rate, Accuracy, Expression",11.2,Reading at a smooth rate,grade 3
+11,"Fluency - Rate, Accuracy, Expression",11.3,Reading with expression,grade 3
+11,"Fluency - Rate, Accuracy, Expression",11.4,Phrasing with punctuation,grade 3
+11,"Fluency - Rate, Accuracy, Expression",11.5,Re-reading to build fluency,grade 3
+11,"Fluency - Rate, Accuracy, Expression",11.6,"Fluency - Rate, Accuracy, Expression Quiz",grade 3
+12,Comprehension - Asking & Answering w/ Text Evidence,12.1,What is asking & answering w/ text evidence?,grade 3
+12,Comprehension - Asking & Answering w/ Text Evidence,12.2,Finding asking & answering w/ text evidence in a short text,grade 3
+12,Comprehension - Asking & Answering w/ Text Evidence,12.3,Using text evidence for asking & answering w/ text evidence,grade 3
+12,Comprehension - Asking & Answering w/ Text Evidence,12.4,Practicing asking & answering w/ text evidence with a passage,grade 3
+12,Comprehension - Asking & Answering w/ Text Evidence,12.5,Explaining asking & answering w/ text evidence in my own words,grade 3
+12,Comprehension - Asking & Answering w/ Text Evidence,12.6,Comprehension - Asking & Answering w/ Text Evidence Quiz,grade 3
+13,Comprehension - Main Idea & Supporting Details,13.1,What is main idea & supporting details?,grade 3
+13,Comprehension - Main Idea & Supporting Details,13.2,Finding main idea & supporting details in a short text,grade 3
+13,Comprehension - Main Idea & Supporting Details,13.3,Using text evidence for main idea & supporting details,grade 3
+13,Comprehension - Main Idea & Supporting Details,13.4,Practicing main idea & supporting details with a passage,grade 3
+13,Comprehension - Main Idea & Supporting Details,13.5,Explaining main idea & supporting details in my own words,grade 3
+13,Comprehension - Main Idea & Supporting Details,13.6,Comprehension - Main Idea & Supporting Details Quiz,grade 3
+14,Comprehension - Sequence & Cause/Effect,14.1,What is sequence & cause/effect?,grade 3
+14,Comprehension - Sequence & Cause/Effect,14.2,Finding sequence & cause/effect in a short text,grade 3
+14,Comprehension - Sequence & Cause/Effect,14.3,Using text evidence for sequence & cause/effect,grade 3
+14,Comprehension - Sequence & Cause/Effect,14.4,Practicing sequence & cause/effect with a passage,grade 3
+14,Comprehension - Sequence & Cause/Effect,14.5,Explaining sequence & cause/effect in my own words,grade 3
+14,Comprehension - Sequence & Cause/Effect,14.6,Comprehension - Sequence & Cause/Effect Quiz,grade 3
+15,Comprehension - Drawing Inferences,15.1,What is drawing inferences?,grade 3
+15,Comprehension - Drawing Inferences,15.2,Finding drawing inferences in a short text,grade 3
+15,Comprehension - Drawing Inferences,15.3,Using text evidence for drawing inferences,grade 3
+15,Comprehension - Drawing Inferences,15.4,Practicing drawing inferences with a passage,grade 3
+15,Comprehension - Drawing Inferences,15.5,Explaining drawing inferences in my own words,grade 3
+15,Comprehension - Drawing Inferences,15.6,Comprehension - Drawing Inferences Quiz,grade 3
+16,Comprehension - Determining Theme / Lesson,16.1,What is determining theme / lesson?,grade 3
+16,Comprehension - Determining Theme / Lesson,16.2,Finding determining theme / lesson in a short text,grade 3
+16,Comprehension - Determining Theme / Lesson,16.3,Using text evidence for determining theme / lesson,grade 3
+16,Comprehension - Determining Theme / Lesson,16.4,Practicing determining theme / lesson with a passage,grade 3
+16,Comprehension - Determining Theme / Lesson,16.5,Explaining determining theme / lesson in my own words,grade 3
+16,Comprehension - Determining Theme / Lesson,16.6,Comprehension - Determining Theme / Lesson Quiz,grade 3
+17,Comprehension - Character Motivation & Traits,17.1,What is character motivation & traits?,grade 3
+17,Comprehension - Character Motivation & Traits,17.2,Finding character motivation & traits in a short text,grade 3
+17,Comprehension - Character Motivation & Traits,17.3,Using text evidence for character motivation & traits,grade 3
+17,Comprehension - Character Motivation & Traits,17.4,Practicing character motivation & traits with a passage,grade 3
+17,Comprehension - Character Motivation & Traits,17.5,Explaining character motivation & traits in my own words,grade 3
+17,Comprehension - Character Motivation & Traits,17.6,Comprehension - Character Motivation & Traits Quiz,grade 3
+18,Comprehension - Point of View,18.1,What is point of view?,grade 3
+18,Comprehension - Point of View,18.2,Finding point of view in a short text,grade 3
+18,Comprehension - Point of View,18.3,Using text evidence for point of view,grade 3
+18,Comprehension - Point of View,18.4,Practicing point of view with a passage,grade 3
+18,Comprehension - Point of View,18.5,Explaining point of view in my own words,grade 3
+18,Comprehension - Point of View,18.6,Comprehension - Point of View Quiz,grade 3
+19,Informational Text - Text Features & Search Tools,19.1,What is text features & search tools?,grade 3
+19,Informational Text - Text Features & Search Tools,19.2,Finding text features & search tools in a short text,grade 3
+19,Informational Text - Text Features & Search Tools,19.3,Using text evidence for text features & search tools,grade 3
+19,Informational Text - Text Features & Search Tools,19.4,Practicing text features & search tools with a passage,grade 3
+19,Informational Text - Text Features & Search Tools,19.5,Explaining text features & search tools in my own words,grade 3
+19,Informational Text - Text Features & Search Tools,19.6,Informational Text - Text Features & Search Tools Quiz,grade 3
+20,Comprehension - Compare Two Texts on Same Topic,20.1,What is compare two texts on same topic?,grade 3
+20,Comprehension - Compare Two Texts on Same Topic,20.2,Finding compare two texts on same topic in a short text,grade 3
+20,Comprehension - Compare Two Texts on Same Topic,20.3,Using text evidence for compare two texts on same topic,grade 3
+20,Comprehension - Compare Two Texts on Same Topic,20.4,Practicing compare two texts on same topic with a passage,grade 3
+20,Comprehension - Compare Two Texts on Same Topic,20.5,Explaining compare two texts on same topic in my own words,grade 3
+20,Comprehension - Compare Two Texts on Same Topic,20.6,Comprehension - Compare Two Texts on Same Topic Quiz,grade 3
+21,Vocabulary - Context Clues,21.1,Understanding context clues,grade 3
+21,Vocabulary - Context Clues,21.2,Clear examples of context clues,grade 3
+21,Vocabulary - Context Clues,21.3,Using context clues in sentences,grade 3
+21,Vocabulary - Context Clues,21.4,Working out context clues from context,grade 3
+21,Vocabulary - Context Clues,21.5,Practicing context clues,grade 3
+21,Vocabulary - Context Clues,21.6,Vocabulary - Context Clues Quiz,grade 3
+22,Vocabulary - Affixes to Determine Meaning,22.1,Meet the word parts in Affixes to Determine Meaning,grade 3
+22,Vocabulary - Affixes to Determine Meaning,22.2,What each part means,grade 3
+22,Vocabulary - Affixes to Determine Meaning,22.3,Building words with Affixes to Determine Meaning,grade 3
+22,Vocabulary - Affixes to Determine Meaning,22.4,Breaking big words into parts,grade 3
+22,Vocabulary - Affixes to Determine Meaning,22.5,Using the parts to unlock meaning,grade 3
+22,Vocabulary - Affixes to Determine Meaning,22.6,Vocabulary - Affixes to Determine Meaning Quiz,grade 3
+23,Vocabulary - Using Glossaries & Dictionaries,23.1,Understanding using glossaries & dictionaries,grade 3
+23,Vocabulary - Using Glossaries & Dictionaries,23.2,Clear examples of using glossaries & dictionaries,grade 3
+23,Vocabulary - Using Glossaries & Dictionaries,23.3,Using using glossaries & dictionaries in sentences,grade 3
+23,Vocabulary - Using Glossaries & Dictionaries,23.4,Working out using glossaries & dictionaries from context,grade 3
+23,Vocabulary - Using Glossaries & Dictionaries,23.5,Practicing using glossaries & dictionaries,grade 3
+23,Vocabulary - Using Glossaries & Dictionaries,23.6,Vocabulary - Using Glossaries & Dictionaries Quiz,grade 3
+24,Vocabulary - Real-Life Word Connections & Shades of Meaning,24.1,Understanding real-life word connections & shades of meaning,grade 3
+24,Vocabulary - Real-Life Word Connections & Shades of Meaning,24.2,Clear examples of real-life word connections & shades of meaning,grade 3
+24,Vocabulary - Real-Life Word Connections & Shades of Meaning,24.3,Using real-life word connections & shades of meaning in sentences,grade 3
+24,Vocabulary - Real-Life Word Connections & Shades of Meaning,24.4,Working out real-life word connections & shades of meaning from context,grade 3
+24,Vocabulary - Real-Life Word Connections & Shades of Meaning,24.5,Practicing real-life word connections & shades of meaning,grade 3
+24,Vocabulary - Real-Life Word Connections & Shades of Meaning,24.6,Vocabulary - Real-Life Word Connections & Shades of Meaning Quiz,grade 3
+25,Grammar - Abstract Nouns,25.1,What are abstract nouns?,grade 3
+25,Grammar - Abstract Nouns,25.2,Spotting abstract nouns in sentences,grade 3
+25,Grammar - Abstract Nouns,25.3,Using abstract nouns correctly,grade 3
+25,Grammar - Abstract Nouns,25.4,Editing for abstract nouns,grade 3
+25,Grammar - Abstract Nouns,25.5,Practicing abstract nouns,grade 3
+25,Grammar - Abstract Nouns,25.6,Grammar - Abstract Nouns Quiz,grade 3
+26,Grammar - Regular & Irregular Verbs,26.1,What are regular & irregular verbs?,grade 3
+26,Grammar - Regular & Irregular Verbs,26.2,Spotting regular & irregular verbs in sentences,grade 3
+26,Grammar - Regular & Irregular Verbs,26.3,Using regular & irregular verbs correctly,grade 3
+26,Grammar - Regular & Irregular Verbs,26.4,Editing for regular & irregular verbs,grade 3
+26,Grammar - Regular & Irregular Verbs,26.5,Practicing regular & irregular verbs,grade 3
+26,Grammar - Regular & Irregular Verbs,26.6,Grammar - Regular & Irregular Verbs Quiz,grade 3
+27,Grammar - Subject-Verb & Pronoun-Antecedent Agreement,27.1,What is subject-verb & pronoun-antecedent agreement?,grade 3
+27,Grammar - Subject-Verb & Pronoun-Antecedent Agreement,27.2,Spotting subject-verb & pronoun-antecedent agreement in sentences,grade 3
+27,Grammar - Subject-Verb & Pronoun-Antecedent Agreement,27.3,Using subject-verb & pronoun-antecedent agreement correctly,grade 3
+27,Grammar - Subject-Verb & Pronoun-Antecedent Agreement,27.4,Editing for subject-verb & pronoun-antecedent agreement,grade 3
+27,Grammar - Subject-Verb & Pronoun-Antecedent Agreement,27.5,Practicing subject-verb & pronoun-antecedent agreement,grade 3
+27,Grammar - Subject-Verb & Pronoun-Antecedent Agreement,27.6,Grammar - Subject-Verb & Pronoun-Antecedent Agreement Quiz,grade 3
+28,Grammar - Comparative & Superlative Adjectives/Adverbs,28.1,What are comparative & superlative adjectives/adverbs?,grade 3
+28,Grammar - Comparative & Superlative Adjectives/Adverbs,28.2,Spotting comparative & superlative adjectives/adverbs in sentences,grade 3
+28,Grammar - Comparative & Superlative Adjectives/Adverbs,28.3,Using comparative & superlative adjectives/adverbs correctly,grade 3
+28,Grammar - Comparative & Superlative Adjectives/Adverbs,28.4,Editing for comparative & superlative adjectives/adverbs,grade 3
+28,Grammar - Comparative & Superlative Adjectives/Adverbs,28.5,Practicing comparative & superlative adjectives/adverbs,grade 3
+28,Grammar - Comparative & Superlative Adjectives/Adverbs,28.6,Grammar - Comparative & Superlative Adjectives/Adverbs Quiz,grade 3
+29,Grammar - Coordinating & Subordinating Conjunctions,29.1,What are coordinating & subordinating conjunctions?,grade 3
+29,Grammar - Coordinating & Subordinating Conjunctions,29.2,Spotting coordinating & subordinating conjunctions in sentences,grade 3
+29,Grammar - Coordinating & Subordinating Conjunctions,29.3,Using coordinating & subordinating conjunctions correctly,grade 3
+29,Grammar - Coordinating & Subordinating Conjunctions,29.4,Editing for coordinating & subordinating conjunctions,grade 3
+29,Grammar - Coordinating & Subordinating Conjunctions,29.5,Practicing coordinating & subordinating conjunctions,grade 3
+29,Grammar - Coordinating & Subordinating Conjunctions,29.6,Grammar - Coordinating & Subordinating Conjunctions Quiz,grade 3
+30,Grammar - Simple & Compound Sentences,30.1,What are simple & compound sentences?,grade 3
+30,Grammar - Simple & Compound Sentences,30.2,Spotting simple & compound sentences in sentences,grade 3
+30,Grammar - Simple & Compound Sentences,30.3,Using simple & compound sentences correctly,grade 3
+30,Grammar - Simple & Compound Sentences,30.4,Editing for simple & compound sentences,grade 3
+30,Grammar - Simple & Compound Sentences,30.5,Practicing simple & compound sentences,grade 3
+30,Grammar - Simple & Compound Sentences,30.6,Grammar - Simple & Compound Sentences Quiz,grade 3
+31,"Grammar - Commas in Dialogue, Addresses, Titles",31.1,"What are commas in dialogue, addresses, titles?",grade 3
+31,"Grammar - Commas in Dialogue, Addresses, Titles",31.2,"Spotting commas in dialogue, addresses, titles in sentences",grade 3
+31,"Grammar - Commas in Dialogue, Addresses, Titles",31.3,"Using commas in dialogue, addresses, titles correctly",grade 3
+31,"Grammar - Commas in Dialogue, Addresses, Titles",31.4,"Editing for commas in dialogue, addresses, titles",grade 3
+31,"Grammar - Commas in Dialogue, Addresses, Titles",31.5,"Practicing commas in dialogue, addresses, titles",grade 3
+31,"Grammar - Commas in Dialogue, Addresses, Titles",31.6,"Grammar - Commas in Dialogue, Addresses, Titles Quiz",grade 3
+32,Writing - Opinion Essay,32.1,Planning an opinion essay piece,grade 3
+32,Writing - Opinion Essay,32.2,"Drafting with a clear beginning, middle, and end",grade 3
+32,Writing - Opinion Essay,32.3,Adding details and organizing my ideas,grade 3
+32,Writing - Opinion Essay,32.4,Strong word choice and linking words,grade 3
+32,Writing - Opinion Essay,32.5,Revising and sharing my opinion essay writing,grade 3
+32,Writing - Opinion Essay,32.6,Writing - Opinion Essay Quiz,grade 3
+33,Writing - Narrative,33.1,Planning a narrative piece,grade 3
+33,Writing - Narrative,33.2,"Drafting with a clear beginning, middle, and end",grade 3
+33,Writing - Narrative,33.3,Adding details and organizing my ideas,grade 3
+33,Writing - Narrative,33.4,Strong word choice and linking words,grade 3
+33,Writing - Narrative,33.5,Revising and sharing my narrative writing,grade 3
+33,Writing - Narrative,33.6,Writing - Narrative Quiz,grade 3
+34,Writing - Informative Text,34.1,Planning an informative text piece,grade 3
+34,Writing - Informative Text,34.2,"Drafting with a clear beginning, middle, and end",grade 3
+34,Writing - Informative Text,34.3,Adding details and organizing my ideas,grade 3
+34,Writing - Informative Text,34.4,Strong word choice and linking words,grade 3
+34,Writing - Informative Text,34.5,Revising and sharing my informative text writing,grade 3
+34,Writing - Informative Text,34.6,Writing - Informative Text Quiz,grade 3
+35,"Writing Process - Plan, Revise, Edit",35.1,Planning my writing,grade 3
+35,"Writing Process - Plan, Revise, Edit",35.2,Drafting a first version,grade 3
+35,"Writing Process - Plan, Revise, Edit",35.3,Revising for ideas and clarity,grade 3
+35,"Writing Process - Plan, Revise, Edit",35.4,Editing for conventions,grade 3
+35,"Writing Process - Plan, Revise, Edit",35.5,Publishing & sharing,grade 3
+35,"Writing Process - Plan, Revise, Edit",35.6,"Writing Process - Plan, Revise, Edit Quiz",grade 3
+36,"Review, Integration & Assessment",36.1,Warm-up review of key skills,grade 3
+36,"Review, Integration & Assessment",36.2,Practice with mixed examples,grade 3
+36,"Review, Integration & Assessment",36.3,Spotting and fixing tricky parts,grade 3
+36,"Review, Integration & Assessment",36.4,Putting the skills together,grade 3
+36,"Review, Integration & Assessment",36.5,Show what you know,grade 3
+36,"Review, Integration & Assessment",36.6,"Review, Integration & Assessment Quiz",grade 3

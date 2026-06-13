@@ -1,0 +1,217 @@
+module,module_title,lesson,skill,grade
+1,Welcome & Grade 1 Phonics Review,1.1,Warm-up review of key skills,grade 2
+1,Welcome & Grade 1 Phonics Review,1.2,Practice with mixed examples,grade 2
+1,Welcome & Grade 1 Phonics Review,1.3,Spotting and fixing tricky parts,grade 2
+1,Welcome & Grade 1 Phonics Review,1.4,Putting the skills together,grade 2
+1,Welcome & Grade 1 Phonics Review,1.5,Show what you know,grade 2
+1,Welcome & Grade 1 Phonics Review,1.6,Welcome & Grade 1 Phonics Review Quiz,grade 2
+2,Long Vowel a,2.1,Hearing and reading the a_e pattern,grade 2
+2,Long Vowel a,2.2,Hearing and reading the ai pattern,grade 2
+2,Long Vowel a,2.3,Hearing and reading the ay pattern,grade 2
+2,Long Vowel a,2.4,Blending and decoding words with long vowel a,grade 2
+2,Long Vowel a,2.5,Sorting and spelling words with long vowel a,grade 2
+2,Long Vowel a,2.6,Long Vowel a Quiz,grade 2
+3,Long Vowel e,3.1,Hearing and reading the ee pattern,grade 2
+3,Long Vowel e,3.2,Hearing and reading the ea pattern,grade 2
+3,Long Vowel e,3.3,Hearing and reading the e_e pattern,grade 2
+3,Long Vowel e,3.4,Blending and decoding words with long vowel e,grade 2
+3,Long Vowel e,3.5,Sorting and spelling words with long vowel e,grade 2
+3,Long Vowel e,3.6,Long Vowel e Quiz,grade 2
+4,Long Vowel i,4.1,Hearing and reading the i_e pattern,grade 2
+4,Long Vowel i,4.2,Hearing and reading the igh pattern,grade 2
+4,Long Vowel i,4.3,Hearing and reading the ie pattern,grade 2
+4,Long Vowel i,4.4,Blending and decoding words with long vowel i,grade 2
+4,Long Vowel i,4.5,Sorting and spelling words with long vowel i,grade 2
+4,Long Vowel i,4.6,Long Vowel i Quiz,grade 2
+5,Long Vowel o,5.1,Hearing and reading the o_e pattern,grade 2
+5,Long Vowel o,5.2,Hearing and reading the oa pattern,grade 2
+5,Long Vowel o,5.3,Hearing and reading the ow pattern,grade 2
+5,Long Vowel o,5.4,Blending and decoding words with long vowel o,grade 2
+5,Long Vowel o,5.5,Sorting and spelling words with long vowel o,grade 2
+5,Long Vowel o,5.6,Long Vowel o Quiz,grade 2
+6,Long Vowel u,6.1,Hearing and reading the u_e pattern,grade 2
+6,Long Vowel u,6.2,Hearing and reading the ue pattern,grade 2
+6,Long Vowel u,6.3,Hearing and reading the ew pattern,grade 2
+6,Long Vowel u,6.4,Blending and decoding words with long vowel u,grade 2
+6,Long Vowel u,6.5,Sorting and spelling words with long vowel u,grade 2
+6,Long Vowel u,6.6,Long Vowel u Quiz,grade 2
+7,Distinguishing Long vs. Short Vowels,7.1,Introducing distinguishing long vs. short vowels,grade 2
+7,Distinguishing Long vs. Short Vowels,7.2,Clear examples of distinguishing long vs. short vowels,grade 2
+7,Distinguishing Long vs. Short Vowels,7.3,Practicing distinguishing long vs. short vowels,grade 2
+7,Distinguishing Long vs. Short Vowels,7.4,Applying distinguishing long vs. short vowels,grade 2
+7,Distinguishing Long vs. Short Vowels,7.5,Mastering distinguishing long vs. short vowels,grade 2
+7,Distinguishing Long vs. Short Vowels,7.6,Distinguishing Long vs. Short Vowels Quiz,grade 2
+8,Vowel Teams Review & Practice,8.1,Warm-up review of key skills,grade 2
+8,Vowel Teams Review & Practice,8.2,Practice with mixed examples,grade 2
+8,Vowel Teams Review & Practice,8.3,Spotting and fixing tricky parts,grade 2
+8,Vowel Teams Review & Practice,8.4,Putting the skills together,grade 2
+8,Vowel Teams Review & Practice,8.5,Show what you know,grade 2
+8,Vowel Teams Review & Practice,8.6,Vowel Teams Review & Practice Quiz,grade 2
+9,"R-Controlled Vowels: ar, or",9.1,"Introducing ar, or",grade 2
+9,"R-Controlled Vowels: ar, or",9.2,"Clear examples of ar, or",grade 2
+9,"R-Controlled Vowels: ar, or",9.3,"Practicing ar, or",grade 2
+9,"R-Controlled Vowels: ar, or",9.4,"Applying ar, or",grade 2
+9,"R-Controlled Vowels: ar, or",9.5,"Mastering ar, or",grade 2
+9,"R-Controlled Vowels: ar, or",9.6,"ar, or Quiz",grade 2
+10,"R-Controlled Vowels: er, ir, ur",10.1,"Introducing er, ir, ur",grade 2
+10,"R-Controlled Vowels: er, ir, ur",10.2,"Clear examples of er, ir, ur",grade 2
+10,"R-Controlled Vowels: er, ir, ur",10.3,"Practicing er, ir, ur",grade 2
+10,"R-Controlled Vowels: er, ir, ur",10.4,"Applying er, ir, ur",grade 2
+10,"R-Controlled Vowels: er, ir, ur",10.5,"Mastering er, ir, ur",grade 2
+10,"R-Controlled Vowels: er, ir, ur",10.6,"er, ir, ur Quiz",grade 2
+11,"Diphthongs: ou, ow",11.1,"Introducing ou, ow",grade 2
+11,"Diphthongs: ou, ow",11.2,"Clear examples of ou, ow",grade 2
+11,"Diphthongs: ou, ow",11.3,"Practicing ou, ow",grade 2
+11,"Diphthongs: ou, ow",11.4,"Applying ou, ow",grade 2
+11,"Diphthongs: ou, ow",11.5,"Mastering ou, ow",grade 2
+11,"Diphthongs: ou, ow",11.6,"ou, ow Quiz",grade 2
+12,"Diphthongs: oi, oy",12.1,"Introducing oi, oy",grade 2
+12,"Diphthongs: oi, oy",12.2,"Clear examples of oi, oy",grade 2
+12,"Diphthongs: oi, oy",12.3,"Practicing oi, oy",grade 2
+12,"Diphthongs: oi, oy",12.4,"Applying oi, oy",grade 2
+12,"Diphthongs: oi, oy",12.5,"Mastering oi, oy",grade 2
+12,"Diphthongs: oi, oy",12.6,"oi, oy Quiz",grade 2
+13,"Variant Vowels: aw, au, all",13.1,"Introducing aw, au, all",grade 2
+13,"Variant Vowels: aw, au, all",13.2,"Clear examples of aw, au, all",grade 2
+13,"Variant Vowels: aw, au, all",13.3,"Practicing aw, au, all",grade 2
+13,"Variant Vowels: aw, au, all",13.4,"Applying aw, au, all",grade 2
+13,"Variant Vowels: aw, au, all",13.5,"Mastering aw, au, all",grade 2
+13,"Variant Vowels: aw, au, all",13.6,"aw, au, all Quiz",grade 2
+14,Soft c and Soft g,14.1,Introducing soft c and soft g,grade 2
+14,Soft c and Soft g,14.2,Clear examples of soft c and soft g,grade 2
+14,Soft c and Soft g,14.3,Practicing soft c and soft g,grade 2
+14,Soft c and Soft g,14.4,Applying soft c and soft g,grade 2
+14,Soft c and Soft g,14.5,Mastering soft c and soft g,grade 2
+14,Soft c and Soft g,14.6,Soft c and Soft g Quiz,grade 2
+15,Silent Letters,15.1,Hearing and reading the kn pattern,grade 2
+15,Silent Letters,15.2,Hearing and reading the wr pattern,grade 2
+15,Silent Letters,15.3,Hearing and reading the mb pattern,grade 2
+15,Silent Letters,15.4,Blending and decoding words with silent letters,grade 2
+15,Silent Letters,15.5,Sorting and spelling words with silent letters,grade 2
+15,Silent Letters,15.6,Silent Letters Quiz,grade 2
+16,Two-Syllable Words: Closed Syllables,16.1,Introducing closed syllables,grade 2
+16,Two-Syllable Words: Closed Syllables,16.2,Clear examples of closed syllables,grade 2
+16,Two-Syllable Words: Closed Syllables,16.3,Practicing closed syllables,grade 2
+16,Two-Syllable Words: Closed Syllables,16.4,Applying closed syllables,grade 2
+16,Two-Syllable Words: Closed Syllables,16.5,Mastering closed syllables,grade 2
+16,Two-Syllable Words: Closed Syllables,16.6,Closed Syllables Quiz,grade 2
+17,Two-Syllable Words: Open & Silent-e Syllables,17.1,Introducing open & silent-e syllables,grade 2
+17,Two-Syllable Words: Open & Silent-e Syllables,17.2,Clear examples of open & silent-e syllables,grade 2
+17,Two-Syllable Words: Open & Silent-e Syllables,17.3,Practicing open & silent-e syllables,grade 2
+17,Two-Syllable Words: Open & Silent-e Syllables,17.4,Applying open & silent-e syllables,grade 2
+17,Two-Syllable Words: Open & Silent-e Syllables,17.5,Mastering open & silent-e syllables,grade 2
+17,Two-Syllable Words: Open & Silent-e Syllables,17.6,Open & Silent-e Syllables Quiz,grade 2
+18,Inflectional Endings,18.1,Hearing and reading the -ed pattern,grade 2
+18,Inflectional Endings,18.2,Hearing and reading the -ing pattern,grade 2
+18,Inflectional Endings,18.3,Hearing and reading the -s pattern,grade 2
+18,Inflectional Endings,18.4,Blending and decoding words with inflectional endings,grade 2
+18,Inflectional Endings,18.5,Sorting and spelling words with inflectional endings,grade 2
+18,Inflectional Endings,18.6,Inflectional Endings Quiz,grade 2
+19,"Prefixes: un-, re-, dis-",19.1,"Meet the word parts in un-, re-, dis-",grade 2
+19,"Prefixes: un-, re-, dis-",19.2,What each part means,grade 2
+19,"Prefixes: un-, re-, dis-",19.3,"Building words with un-, re-, dis-",grade 2
+19,"Prefixes: un-, re-, dis-",19.4,Breaking big words into parts,grade 2
+19,"Prefixes: un-, re-, dis-",19.5,Using the parts to unlock meaning,grade 2
+19,"Prefixes: un-, re-, dis-",19.6,"un-, re-, dis- Quiz",grade 2
+20,"Suffixes: -ful, -less, -ly",20.1,"Meet the word parts in -ful, -less, -ly",grade 2
+20,"Suffixes: -ful, -less, -ly",20.2,What each part means,grade 2
+20,"Suffixes: -ful, -less, -ly",20.3,"Building words with -ful, -less, -ly",grade 2
+20,"Suffixes: -ful, -less, -ly",20.4,Breaking big words into parts,grade 2
+20,"Suffixes: -ful, -less, -ly",20.5,Using the parts to unlock meaning,grade 2
+20,"Suffixes: -ful, -less, -ly",20.6,"-ful, -less, -ly Quiz",grade 2
+21,Sight Word Mastery,21.1,Introducing sight word mastery,grade 2
+21,Sight Word Mastery,21.2,Clear examples of sight word mastery,grade 2
+21,Sight Word Mastery,21.3,Practicing sight word mastery,grade 2
+21,Sight Word Mastery,21.4,Applying sight word mastery,grade 2
+21,Sight Word Mastery,21.5,Mastering sight word mastery,grade 2
+21,Sight Word Mastery,21.6,Sight Word Mastery Quiz,grade 2
+22,Fluency - Reading Decodable Passages,22.1,Reading with accuracy,grade 2
+22,Fluency - Reading Decodable Passages,22.2,Reading at a smooth rate,grade 2
+22,Fluency - Reading Decodable Passages,22.3,Reading with expression,grade 2
+22,Fluency - Reading Decodable Passages,22.4,Phrasing with punctuation,grade 2
+22,Fluency - Reading Decodable Passages,22.5,Re-reading to build fluency,grade 2
+22,Fluency - Reading Decodable Passages,22.6,Fluency - Reading Decodable Passages Quiz,grade 2
+23,Comprehension - Main Idea & Key Details,23.1,What is main idea & key details?,grade 2
+23,Comprehension - Main Idea & Key Details,23.2,Finding main idea & key details in a short text,grade 2
+23,Comprehension - Main Idea & Key Details,23.3,Using text evidence for main idea & key details,grade 2
+23,Comprehension - Main Idea & Key Details,23.4,Practicing main idea & key details with a passage,grade 2
+23,Comprehension - Main Idea & Key Details,23.5,Explaining main idea & key details in my own words,grade 2
+23,Comprehension - Main Idea & Key Details,23.6,Comprehension - Main Idea & Key Details Quiz,grade 2
+24,Comprehension - Story Structure,24.1,What is story structure?,grade 2
+24,Comprehension - Story Structure,24.2,Finding story structure in a short text,grade 2
+24,Comprehension - Story Structure,24.3,Using text evidence for story structure,grade 2
+24,Comprehension - Story Structure,24.4,Practicing story structure with a passage,grade 2
+24,Comprehension - Story Structure,24.5,Explaining story structure in my own words,grade 2
+24,Comprehension - Story Structure,24.6,Comprehension - Story Structure Quiz,grade 2
+25,Comprehension - Recount the Central Message/Lesson,25.1,What is recount the central message/lesson?,grade 2
+25,Comprehension - Recount the Central Message/Lesson,25.2,Finding recount the central message/lesson in a short text,grade 2
+25,Comprehension - Recount the Central Message/Lesson,25.3,Using text evidence for recount the central message/lesson,grade 2
+25,Comprehension - Recount the Central Message/Lesson,25.4,Practicing recount the central message/lesson with a passage,grade 2
+25,Comprehension - Recount the Central Message/Lesson,25.5,Explaining recount the central message/lesson in my own words,grade 2
+25,Comprehension - Recount the Central Message/Lesson,25.6,Comprehension - Recount the Central Message/Lesson Quiz,grade 2
+26,Comprehension - Compare Two Versions of a Story,26.1,What is compare two versions of a story?,grade 2
+26,Comprehension - Compare Two Versions of a Story,26.2,Finding compare two versions of a story in a short text,grade 2
+26,Comprehension - Compare Two Versions of a Story,26.3,Using text evidence for compare two versions of a story,grade 2
+26,Comprehension - Compare Two Versions of a Story,26.4,Practicing compare two versions of a story with a passage,grade 2
+26,Comprehension - Compare Two Versions of a Story,26.5,Explaining compare two versions of a story in my own words,grade 2
+26,Comprehension - Compare Two Versions of a Story,26.6,Comprehension - Compare Two Versions of a Story Quiz,grade 2
+27,"Text Features - Captions, Bold, Index, Glossary",27.1,"Introducing captions, bold, index, glossary",grade 2
+27,"Text Features - Captions, Bold, Index, Glossary",27.2,"Clear examples of captions, bold, index, glossary",grade 2
+27,"Text Features - Captions, Bold, Index, Glossary",27.3,"Practicing captions, bold, index, glossary",grade 2
+27,"Text Features - Captions, Bold, Index, Glossary",27.4,"Applying captions, bold, index, glossary",grade 2
+27,"Text Features - Captions, Bold, Index, Glossary",27.5,"Mastering captions, bold, index, glossary",grade 2
+27,"Text Features - Captions, Bold, Index, Glossary",27.6,"Text Features - Captions, Bold, Index, Glossary Quiz",grade 2
+28,Vocabulary - Synonyms & Antonyms,28.1,Understanding synonyms & antonyms,grade 2
+28,Vocabulary - Synonyms & Antonyms,28.2,Clear examples of synonyms & antonyms,grade 2
+28,Vocabulary - Synonyms & Antonyms,28.3,Using synonyms & antonyms in sentences,grade 2
+28,Vocabulary - Synonyms & Antonyms,28.4,Working out synonyms & antonyms from context,grade 2
+28,Vocabulary - Synonyms & Antonyms,28.5,Practicing synonyms & antonyms,grade 2
+28,Vocabulary - Synonyms & Antonyms,28.6,Vocabulary - Synonyms & Antonyms Quiz,grade 2
+29,Vocabulary - Multiple-Meaning & Compound Words,29.1,Understanding multiple-meaning & compound words,grade 2
+29,Vocabulary - Multiple-Meaning & Compound Words,29.2,Clear examples of multiple-meaning & compound words,grade 2
+29,Vocabulary - Multiple-Meaning & Compound Words,29.3,Using multiple-meaning & compound words in sentences,grade 2
+29,Vocabulary - Multiple-Meaning & Compound Words,29.4,Working out multiple-meaning & compound words from context,grade 2
+29,Vocabulary - Multiple-Meaning & Compound Words,29.5,Practicing multiple-meaning & compound words,grade 2
+29,Vocabulary - Multiple-Meaning & Compound Words,29.6,Vocabulary - Multiple-Meaning & Compound Words Quiz,grade 2
+30,Grammar - Irregular Plural & Collective Nouns,30.1,What are irregular plural & collective nouns?,grade 2
+30,Grammar - Irregular Plural & Collective Nouns,30.2,Spotting irregular plural & collective nouns in sentences,grade 2
+30,Grammar - Irregular Plural & Collective Nouns,30.3,Using irregular plural & collective nouns correctly,grade 2
+30,Grammar - Irregular Plural & Collective Nouns,30.4,Editing for irregular plural & collective nouns,grade 2
+30,Grammar - Irregular Plural & Collective Nouns,30.5,Practicing irregular plural & collective nouns,grade 2
+30,Grammar - Irregular Plural & Collective Nouns,30.6,Grammar - Irregular Plural & Collective Nouns Quiz,grade 2
+31,Grammar - Verb Tenses,31.1,What are verb tenses?,grade 2
+31,Grammar - Verb Tenses,31.2,Spotting verb tenses in sentences,grade 2
+31,Grammar - Verb Tenses,31.3,Using verb tenses correctly,grade 2
+31,Grammar - Verb Tenses,31.4,Editing for verb tenses,grade 2
+31,Grammar - Verb Tenses,31.5,Practicing verb tenses,grade 2
+31,Grammar - Verb Tenses,31.6,Grammar - Verb Tenses Quiz,grade 2
+32,Grammar - Reflexive Pronouns,32.1,What are reflexive pronouns?,grade 2
+32,Grammar - Reflexive Pronouns,32.2,Spotting reflexive pronouns in sentences,grade 2
+32,Grammar - Reflexive Pronouns,32.3,Using reflexive pronouns correctly,grade 2
+32,Grammar - Reflexive Pronouns,32.4,Editing for reflexive pronouns,grade 2
+32,Grammar - Reflexive Pronouns,32.5,Practicing reflexive pronouns,grade 2
+32,Grammar - Reflexive Pronouns,32.6,Grammar - Reflexive Pronouns Quiz,grade 2
+33,Grammar - Adjectives & Adverbs,33.1,What are adjectives & adverbs?,grade 2
+33,Grammar - Adjectives & Adverbs,33.2,Spotting adjectives & adverbs in sentences,grade 2
+33,Grammar - Adjectives & Adverbs,33.3,Using adjectives & adverbs correctly,grade 2
+33,Grammar - Adjectives & Adverbs,33.4,Editing for adjectives & adverbs,grade 2
+33,Grammar - Adjectives & Adverbs,33.5,Practicing adjectives & adverbs,grade 2
+33,Grammar - Adjectives & Adverbs,33.6,Grammar - Adjectives & Adverbs Quiz,grade 2
+34,"Grammar - Commas (greetings, lists) & Apostrophes",34.1,"What are commas (greetings, lists) & apostrophes?",grade 2
+34,"Grammar - Commas (greetings, lists) & Apostrophes",34.2,"Spotting commas (greetings, lists) & apostrophes in sentences",grade 2
+34,"Grammar - Commas (greetings, lists) & Apostrophes",34.3,"Using commas (greetings, lists) & apostrophes correctly",grade 2
+34,"Grammar - Commas (greetings, lists) & Apostrophes",34.4,"Editing for commas (greetings, lists) & apostrophes",grade 2
+34,"Grammar - Commas (greetings, lists) & Apostrophes",34.5,"Practicing commas (greetings, lists) & apostrophes",grade 2
+34,"Grammar - Commas (greetings, lists) & Apostrophes",34.6,"Grammar - Commas (greetings, lists) & Apostrophes Quiz",grade 2
+35,"Writing - Paragraph: Opinion, Narrative, Informational",35.1,"Planning an opinion, narrative, informational piece",grade 2
+35,"Writing - Paragraph: Opinion, Narrative, Informational",35.2,"Drafting with a clear beginning, middle, and end",grade 2
+35,"Writing - Paragraph: Opinion, Narrative, Informational",35.3,Adding details and organizing my ideas,grade 2
+35,"Writing - Paragraph: Opinion, Narrative, Informational",35.4,Strong word choice and linking words,grade 2
+35,"Writing - Paragraph: Opinion, Narrative, Informational",35.5,"Revising and sharing my opinion, narrative, informational writing",grade 2
+35,"Writing - Paragraph: Opinion, Narrative, Informational",35.6,"Opinion, Narrative, Informational Quiz",grade 2
+36,"Review, Integration & Assessment",36.1,Warm-up review of key skills,grade 2
+36,"Review, Integration & Assessment",36.2,Practice with mixed examples,grade 2
+36,"Review, Integration & Assessment",36.3,Spotting and fixing tricky parts,grade 2
+36,"Review, Integration & Assessment",36.4,Putting the skills together,grade 2
+36,"Review, Integration & Assessment",36.5,Show what you know,grade 2
+36,"Review, Integration & Assessment",36.6,"Review, Integration & Assessment Quiz",grade 2

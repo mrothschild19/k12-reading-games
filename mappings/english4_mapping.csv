@@ -1,0 +1,217 @@
+module,module_title,lesson,skill,grade
+1,Welcome & Grade 3 Review,1.1,Warm-up review of key skills,grade 4
+1,Welcome & Grade 3 Review,1.2,Practice with mixed examples,grade 4
+1,Welcome & Grade 3 Review,1.3,Spotting and fixing tricky parts,grade 4
+1,Welcome & Grade 3 Review,1.4,Putting the skills together,grade 4
+1,Welcome & Grade 3 Review,1.5,Show what you know,grade 4
+1,Welcome & Grade 3 Review,1.6,Welcome & Grade 3 Review Quiz,grade 4
+2,Reading Multisyllabic Words in & out of Context,2.1,What is reading multisyllabic words in & out of context?,grade 4
+2,Reading Multisyllabic Words in & out of Context,2.2,Finding reading multisyllabic words in & out of context in a short text,grade 4
+2,Reading Multisyllabic Words in & out of Context,2.3,Using text evidence for reading multisyllabic words in & out of context,grade 4
+2,Reading Multisyllabic Words in & out of Context,2.4,Practicing reading multisyllabic words in & out of context with a passage,grade 4
+2,Reading Multisyllabic Words in & out of Context,2.5,Explaining reading multisyllabic words in & out of context in my own words,grade 4
+2,Reading Multisyllabic Words in & out of Context,2.6,Reading Multisyllabic Words in & out of Context Quiz,grade 4
+3,Greek Roots,3.1,Meet the word parts in Greek Roots,grade 4
+3,Greek Roots,3.2,What each part means,grade 4
+3,Greek Roots,3.3,Building words with Greek Roots,grade 4
+3,Greek Roots,3.4,Breaking big words into parts,grade 4
+3,Greek Roots,3.5,Using the parts to unlock meaning,grade 4
+3,Greek Roots,3.6,Greek Roots Quiz,grade 4
+4,Latin Roots,4.1,Meet the word parts in Latin Roots,grade 4
+4,Latin Roots,4.2,What each part means,grade 4
+4,Latin Roots,4.3,Building words with Latin Roots,grade 4
+4,Latin Roots,4.4,Breaking big words into parts,grade 4
+4,Latin Roots,4.5,Using the parts to unlock meaning,grade 4
+4,Latin Roots,4.6,Latin Roots Quiz,grade 4
+5,Prefixes,5.1,Meet the word parts in Prefixes,grade 4
+5,Prefixes,5.2,What each part means,grade 4
+5,Prefixes,5.3,Building words with Prefixes,grade 4
+5,Prefixes,5.4,Breaking big words into parts,grade 4
+5,Prefixes,5.5,Using the parts to unlock meaning,grade 4
+5,Prefixes,5.6,Prefixes Quiz,grade 4
+6,Suffixes,6.1,Meet the word parts in Suffixes,grade 4
+6,Suffixes,6.2,What each part means,grade 4
+6,Suffixes,6.3,Building words with Suffixes,grade 4
+6,Suffixes,6.4,Breaking big words into parts,grade 4
+6,Suffixes,6.5,Using the parts to unlock meaning,grade 4
+6,Suffixes,6.6,Suffixes Quiz,grade 4
+7,Morphology - Building & Breaking Big Words,7.1,Meet the word parts in Building & Breaking Big Words,grade 4
+7,Morphology - Building & Breaking Big Words,7.2,What each part means,grade 4
+7,Morphology - Building & Breaking Big Words,7.3,Building words with Building & Breaking Big Words,grade 4
+7,Morphology - Building & Breaking Big Words,7.4,Breaking big words into parts,grade 4
+7,Morphology - Building & Breaking Big Words,7.5,Using the parts to unlock meaning,grade 4
+7,Morphology - Building & Breaking Big Words,7.6,Morphology - Building & Breaking Big Words Quiz,grade 4
+8,Fluency - Reading for Meaning & Expression,8.1,Reading with accuracy,grade 4
+8,Fluency - Reading for Meaning & Expression,8.2,Reading at a smooth rate,grade 4
+8,Fluency - Reading for Meaning & Expression,8.3,Reading with expression,grade 4
+8,Fluency - Reading for Meaning & Expression,8.4,Phrasing with punctuation,grade 4
+8,Fluency - Reading for Meaning & Expression,8.5,Re-reading to build fluency,grade 4
+8,Fluency - Reading for Meaning & Expression,8.6,Fluency - Reading for Meaning & Expression Quiz,grade 4
+9,Comprehension - Refer to Details & Examples,9.1,What is refer to details & examples?,grade 4
+9,Comprehension - Refer to Details & Examples,9.2,Finding refer to details & examples in a short text,grade 4
+9,Comprehension - Refer to Details & Examples,9.3,Using text evidence for refer to details & examples,grade 4
+9,Comprehension - Refer to Details & Examples,9.4,Practicing refer to details & examples with a passage,grade 4
+9,Comprehension - Refer to Details & Examples,9.5,Explaining refer to details & examples in my own words,grade 4
+9,Comprehension - Refer to Details & Examples,9.6,Comprehension - Refer to Details & Examples Quiz,grade 4
+10,Comprehension - Inferences w/ Text Evidence,10.1,What is inferences w/ text evidence?,grade 4
+10,Comprehension - Inferences w/ Text Evidence,10.2,Finding inferences w/ text evidence in a short text,grade 4
+10,Comprehension - Inferences w/ Text Evidence,10.3,Using text evidence for inferences w/ text evidence,grade 4
+10,Comprehension - Inferences w/ Text Evidence,10.4,Practicing inferences w/ text evidence with a passage,grade 4
+10,Comprehension - Inferences w/ Text Evidence,10.5,Explaining inferences w/ text evidence in my own words,grade 4
+10,Comprehension - Inferences w/ Text Evidence,10.6,Comprehension - Inferences w/ Text Evidence Quiz,grade 4
+11,Comprehension - Theme & Summary,11.1,What is theme & summary?,grade 4
+11,Comprehension - Theme & Summary,11.2,Finding theme & summary in a short text,grade 4
+11,Comprehension - Theme & Summary,11.3,Using text evidence for theme & summary,grade 4
+11,Comprehension - Theme & Summary,11.4,Practicing theme & summary with a passage,grade 4
+11,Comprehension - Theme & Summary,11.5,Explaining theme & summary in my own words,grade 4
+11,Comprehension - Theme & Summary,11.6,Comprehension - Theme & Summary Quiz,grade 4
+12,"Comprehension - Character, Setting, Event in Depth",12.1,"What is character, setting, event in depth?",grade 4
+12,"Comprehension - Character, Setting, Event in Depth",12.2,"Finding character, setting, event in depth in a short text",grade 4
+12,"Comprehension - Character, Setting, Event in Depth",12.3,"Using text evidence for character, setting, event in depth",grade 4
+12,"Comprehension - Character, Setting, Event in Depth",12.4,"Practicing character, setting, event in depth with a passage",grade 4
+12,"Comprehension - Character, Setting, Event in Depth",12.5,"Explaining character, setting, event in depth in my own words",grade 4
+12,"Comprehension - Character, Setting, Event in Depth",12.6,"Comprehension - Character, Setting, Event in Depth Quiz",grade 4
+13,Comprehension - Compare First- & Third-Person POV,13.1,What is compare first- & third-person pov?,grade 4
+13,Comprehension - Compare First- & Third-Person POV,13.2,Finding compare first- & third-person pov in a short text,grade 4
+13,Comprehension - Compare First- & Third-Person POV,13.3,Using text evidence for compare first- & third-person pov,grade 4
+13,Comprehension - Compare First- & Third-Person POV,13.4,Practicing compare first- & third-person pov with a passage,grade 4
+13,Comprehension - Compare First- & Third-Person POV,13.5,Explaining compare first- & third-person pov in my own words,grade 4
+13,Comprehension - Compare First- & Third-Person POV,13.6,Comprehension - Compare First- & Third-Person POV Quiz,grade 4
+14,Informational - Main Idea & Supporting Details,14.1,What is main idea & supporting details?,grade 4
+14,Informational - Main Idea & Supporting Details,14.2,Finding main idea & supporting details in a short text,grade 4
+14,Informational - Main Idea & Supporting Details,14.3,Using text evidence for main idea & supporting details,grade 4
+14,Informational - Main Idea & Supporting Details,14.4,Practicing main idea & supporting details with a passage,grade 4
+14,Informational - Main Idea & Supporting Details,14.5,Explaining main idea & supporting details in my own words,grade 4
+14,Informational - Main Idea & Supporting Details,14.6,Informational - Main Idea & Supporting Details Quiz,grade 4
+15,Informational - Explain Events/Procedures/Concepts,15.1,What is explain events/procedures/concepts?,grade 4
+15,Informational - Explain Events/Procedures/Concepts,15.2,Finding explain events/procedures/concepts in a short text,grade 4
+15,Informational - Explain Events/Procedures/Concepts,15.3,Using text evidence for explain events/procedures/concepts,grade 4
+15,Informational - Explain Events/Procedures/Concepts,15.4,Practicing explain events/procedures/concepts with a passage,grade 4
+15,Informational - Explain Events/Procedures/Concepts,15.5,Explaining explain events/procedures/concepts in my own words,grade 4
+15,Informational - Explain Events/Procedures/Concepts,15.6,Informational - Explain Events/Procedures/Concepts Quiz,grade 4
+16,Informational - Compare & Contrast Structure,16.1,What is compare & contrast structure?,grade 4
+16,Informational - Compare & Contrast Structure,16.2,Finding compare & contrast structure in a short text,grade 4
+16,Informational - Compare & Contrast Structure,16.3,Using text evidence for compare & contrast structure,grade 4
+16,Informational - Compare & Contrast Structure,16.4,Practicing compare & contrast structure with a passage,grade 4
+16,Informational - Compare & Contrast Structure,16.5,Explaining compare & contrast structure in my own words,grade 4
+16,Informational - Compare & Contrast Structure,16.6,Informational - Compare & Contrast Structure Quiz,grade 4
+17,Informational - Integrate Info from Two Texts,17.1,What is integrate info from two texts?,grade 4
+17,Informational - Integrate Info from Two Texts,17.2,Finding integrate info from two texts in a short text,grade 4
+17,Informational - Integrate Info from Two Texts,17.3,Using text evidence for integrate info from two texts,grade 4
+17,Informational - Integrate Info from Two Texts,17.4,Practicing integrate info from two texts with a passage,grade 4
+17,Informational - Integrate Info from Two Texts,17.5,Explaining integrate info from two texts in my own words,grade 4
+17,Informational - Integrate Info from Two Texts,17.6,Informational - Integrate Info from Two Texts Quiz,grade 4
+18,"Text Structure - Chronology, Cause/Effect, Problem/Solution",18.1,"Introducing chronology, cause/effect, problem/solution",grade 4
+18,"Text Structure - Chronology, Cause/Effect, Problem/Solution",18.2,"Clear examples of chronology, cause/effect, problem/solution",grade 4
+18,"Text Structure - Chronology, Cause/Effect, Problem/Solution",18.3,"Practicing chronology, cause/effect, problem/solution",grade 4
+18,"Text Structure - Chronology, Cause/Effect, Problem/Solution",18.4,"Applying chronology, cause/effect, problem/solution",grade 4
+18,"Text Structure - Chronology, Cause/Effect, Problem/Solution",18.5,"Mastering chronology, cause/effect, problem/solution",grade 4
+18,"Text Structure - Chronology, Cause/Effect, Problem/Solution",18.6,"Text Structure - Chronology, Cause/Effect, Problem/Solution Quiz",grade 4
+19,Vocabulary - Academic & Domain-Specific Words,19.1,Understanding academic & domain-specific words,grade 4
+19,Vocabulary - Academic & Domain-Specific Words,19.2,Clear examples of academic & domain-specific words,grade 4
+19,Vocabulary - Academic & Domain-Specific Words,19.3,Using academic & domain-specific words in sentences,grade 4
+19,Vocabulary - Academic & Domain-Specific Words,19.4,Working out academic & domain-specific words from context,grade 4
+19,Vocabulary - Academic & Domain-Specific Words,19.5,Practicing academic & domain-specific words,grade 4
+19,Vocabulary - Academic & Domain-Specific Words,19.6,Vocabulary - Academic & Domain-Specific Words Quiz,grade 4
+20,Vocabulary - Figurative Language,20.1,Understanding figurative language,grade 4
+20,Vocabulary - Figurative Language,20.2,Clear examples of figurative language,grade 4
+20,Vocabulary - Figurative Language,20.3,Using figurative language in sentences,grade 4
+20,Vocabulary - Figurative Language,20.4,Working out figurative language from context,grade 4
+20,Vocabulary - Figurative Language,20.5,Practicing figurative language,grade 4
+20,Vocabulary - Figurative Language,20.6,Vocabulary - Figurative Language Quiz,grade 4
+21,Vocabulary - Word Relationships,21.1,Understanding word relationships,grade 4
+21,Vocabulary - Word Relationships,21.2,Clear examples of word relationships,grade 4
+21,Vocabulary - Word Relationships,21.3,Using word relationships in sentences,grade 4
+21,Vocabulary - Word Relationships,21.4,Working out word relationships from context,grade 4
+21,Vocabulary - Word Relationships,21.5,Practicing word relationships,grade 4
+21,Vocabulary - Word Relationships,21.6,Vocabulary - Word Relationships Quiz,grade 4
+22,Vocabulary - Reference Materials,22.1,Understanding reference materials,grade 4
+22,Vocabulary - Reference Materials,22.2,Clear examples of reference materials,grade 4
+22,Vocabulary - Reference Materials,22.3,Using reference materials in sentences,grade 4
+22,Vocabulary - Reference Materials,22.4,Working out reference materials from context,grade 4
+22,Vocabulary - Reference Materials,22.5,Practicing reference materials,grade 4
+22,Vocabulary - Reference Materials,22.6,Vocabulary - Reference Materials Quiz,grade 4
+23,Grammar - Relative Pronouns & Adverbs,23.1,What are relative pronouns & adverbs?,grade 4
+23,Grammar - Relative Pronouns & Adverbs,23.2,Spotting relative pronouns & adverbs in sentences,grade 4
+23,Grammar - Relative Pronouns & Adverbs,23.3,Using relative pronouns & adverbs correctly,grade 4
+23,Grammar - Relative Pronouns & Adverbs,23.4,Editing for relative pronouns & adverbs,grade 4
+23,Grammar - Relative Pronouns & Adverbs,23.5,Practicing relative pronouns & adverbs,grade 4
+23,Grammar - Relative Pronouns & Adverbs,23.6,Grammar - Relative Pronouns & Adverbs Quiz,grade 4
+24,Grammar - Progressive & Modal Verb Tenses,24.1,What are progressive & modal verb tenses?,grade 4
+24,Grammar - Progressive & Modal Verb Tenses,24.2,Spotting progressive & modal verb tenses in sentences,grade 4
+24,Grammar - Progressive & Modal Verb Tenses,24.3,Using progressive & modal verb tenses correctly,grade 4
+24,Grammar - Progressive & Modal Verb Tenses,24.4,Editing for progressive & modal verb tenses,grade 4
+24,Grammar - Progressive & Modal Verb Tenses,24.5,Practicing progressive & modal verb tenses,grade 4
+24,Grammar - Progressive & Modal Verb Tenses,24.6,Grammar - Progressive & Modal Verb Tenses Quiz,grade 4
+25,Grammar - Prepositional Phrases,25.1,What are prepositional phrases?,grade 4
+25,Grammar - Prepositional Phrases,25.2,Spotting prepositional phrases in sentences,grade 4
+25,Grammar - Prepositional Phrases,25.3,Using prepositional phrases correctly,grade 4
+25,Grammar - Prepositional Phrases,25.4,Editing for prepositional phrases,grade 4
+25,Grammar - Prepositional Phrases,25.5,Practicing prepositional phrases,grade 4
+25,Grammar - Prepositional Phrases,25.6,Grammar - Prepositional Phrases Quiz,grade 4
+26,Grammar - Order of Adjectives,26.1,What are order of adjectives?,grade 4
+26,Grammar - Order of Adjectives,26.2,Spotting order of adjectives in sentences,grade 4
+26,Grammar - Order of Adjectives,26.3,Using order of adjectives correctly,grade 4
+26,Grammar - Order of Adjectives,26.4,Editing for order of adjectives,grade 4
+26,Grammar - Order of Adjectives,26.5,Practicing order of adjectives,grade 4
+26,Grammar - Order of Adjectives,26.6,Grammar - Order of Adjectives Quiz,grade 4
+27,Grammar - Complete Sentences,27.1,What are complete sentences?,grade 4
+27,Grammar - Complete Sentences,27.2,Spotting complete sentences in sentences,grade 4
+27,Grammar - Complete Sentences,27.3,Using complete sentences correctly,grade 4
+27,Grammar - Complete Sentences,27.4,Editing for complete sentences,grade 4
+27,Grammar - Complete Sentences,27.5,Practicing complete sentences,grade 4
+27,Grammar - Complete Sentences,27.6,Grammar - Complete Sentences Quiz,grade 4
+28,Grammar - Commas & Quotation Marks in Dialogue,28.1,What is commas & quotation marks in dialogue?,grade 4
+28,Grammar - Commas & Quotation Marks in Dialogue,28.2,Spotting commas & quotation marks in dialogue in sentences,grade 4
+28,Grammar - Commas & Quotation Marks in Dialogue,28.3,Using commas & quotation marks in dialogue correctly,grade 4
+28,Grammar - Commas & Quotation Marks in Dialogue,28.4,Editing for commas & quotation marks in dialogue,grade 4
+28,Grammar - Commas & Quotation Marks in Dialogue,28.5,Practicing commas & quotation marks in dialogue,grade 4
+28,Grammar - Commas & Quotation Marks in Dialogue,28.6,Grammar - Commas & Quotation Marks in Dialogue Quiz,grade 4
+29,Grammar - Frequently Confused Words,29.1,What are frequently confused words?,grade 4
+29,Grammar - Frequently Confused Words,29.2,Spotting frequently confused words in sentences,grade 4
+29,Grammar - Frequently Confused Words,29.3,Using frequently confused words correctly,grade 4
+29,Grammar - Frequently Confused Words,29.4,Editing for frequently confused words,grade 4
+29,Grammar - Frequently Confused Words,29.5,Practicing frequently confused words,grade 4
+29,Grammar - Frequently Confused Words,29.6,Grammar - Frequently Confused Words Quiz,grade 4
+30,Writing - Opinion w/ Reasons & Evidence,30.1,Planning an opinion w/ reasons and evidence piece,grade 4
+30,Writing - Opinion w/ Reasons & Evidence,30.2,"Drafting with a clear beginning, middle, and end",grade 4
+30,Writing - Opinion w/ Reasons & Evidence,30.3,Adding details and organizing my ideas,grade 4
+30,Writing - Opinion w/ Reasons & Evidence,30.4,Strong word choice and linking words,grade 4
+30,Writing - Opinion w/ Reasons & Evidence,30.5,Revising and sharing my opinion w/ reasons and evidence writing,grade 4
+30,Writing - Opinion w/ Reasons & Evidence,30.6,Writing - Opinion w/ Reasons & Evidence Quiz,grade 4
+31,Writing - Narrative w/ Pacing & Sensory Detail,31.1,Planning a narrative w/ pacing and sensory detail piece,grade 4
+31,Writing - Narrative w/ Pacing & Sensory Detail,31.2,"Drafting with a clear beginning, middle, and end",grade 4
+31,Writing - Narrative w/ Pacing & Sensory Detail,31.3,Adding details and organizing my ideas,grade 4
+31,Writing - Narrative w/ Pacing & Sensory Detail,31.4,Strong word choice and linking words,grade 4
+31,Writing - Narrative w/ Pacing & Sensory Detail,31.5,Revising and sharing my narrative w/ pacing and sensory detail writing,grade 4
+31,Writing - Narrative w/ Pacing & Sensory Detail,31.6,Writing - Narrative w/ Pacing & Sensory Detail Quiz,grade 4
+32,Writing - Informative w/ Headings & Grouped Info,32.1,Planning an informative w/ headings and grouped info piece,grade 4
+32,Writing - Informative w/ Headings & Grouped Info,32.2,"Drafting with a clear beginning, middle, and end",grade 4
+32,Writing - Informative w/ Headings & Grouped Info,32.3,Adding details and organizing my ideas,grade 4
+32,Writing - Informative w/ Headings & Grouped Info,32.4,Strong word choice and linking words,grade 4
+32,Writing - Informative w/ Headings & Grouped Info,32.5,Revising and sharing my informative w/ headings and grouped info writing,grade 4
+32,Writing - Informative w/ Headings & Grouped Info,32.6,Writing - Informative w/ Headings & Grouped Info Quiz,grade 4
+33,Writing - Linking Words & Transitions,33.1,Planning a linking words and transitions piece,grade 4
+33,Writing - Linking Words & Transitions,33.2,"Drafting with a clear beginning, middle, and end",grade 4
+33,Writing - Linking Words & Transitions,33.3,Adding details and organizing my ideas,grade 4
+33,Writing - Linking Words & Transitions,33.4,Strong word choice and linking words,grade 4
+33,Writing - Linking Words & Transitions,33.5,Revising and sharing my linking words and transitions writing,grade 4
+33,Writing - Linking Words & Transitions,33.6,Writing - Linking Words & Transitions Quiz,grade 4
+34,"Writing Process - Plan, Revise, Edit w/ Technology",34.1,Planning my writing,grade 4
+34,"Writing Process - Plan, Revise, Edit w/ Technology",34.2,Drafting a first version,grade 4
+34,"Writing Process - Plan, Revise, Edit w/ Technology",34.3,Revising for ideas and clarity,grade 4
+34,"Writing Process - Plan, Revise, Edit w/ Technology",34.4,Editing for conventions,grade 4
+34,"Writing Process - Plan, Revise, Edit w/ Technology",34.5,Publishing & sharing,grade 4
+34,"Writing Process - Plan, Revise, Edit w/ Technology",34.6,"Writing Process - Plan, Revise, Edit w/ Technology Quiz",grade 4
+35,Speaking & Listening - Report w/ Facts & Organization,35.1,Planning what to say,grade 4
+35,Speaking & Listening - Report w/ Facts & Organization,35.2,Organizing facts in order,grade 4
+35,Speaking & Listening - Report w/ Facts & Organization,35.3,Speaking clearly with detail,grade 4
+35,Speaking & Listening - Report w/ Facts & Organization,35.4,Using media or visuals to support,grade 4
+35,Speaking & Listening - Report w/ Facts & Organization,35.5,Listening and responding,grade 4
+35,Speaking & Listening - Report w/ Facts & Organization,35.6,Speaking & Listening - Report w/ Facts & Organization Quiz,grade 4
+36,"Review, Integration & Assessment",36.1,Warm-up review of key skills,grade 4
+36,"Review, Integration & Assessment",36.2,Practice with mixed examples,grade 4
+36,"Review, Integration & Assessment",36.3,Spotting and fixing tricky parts,grade 4
+36,"Review, Integration & Assessment",36.4,Putting the skills together,grade 4
+36,"Review, Integration & Assessment",36.5,Show what you know,grade 4
+36,"Review, Integration & Assessment",36.6,"Review, Integration & Assessment Quiz",grade 4

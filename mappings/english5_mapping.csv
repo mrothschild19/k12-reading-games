@@ -1,0 +1,217 @@
+module,module_title,lesson,skill,grade
+1,Welcome & Grade 4 Review,1.1,Warm-up review of key skills,grade 5
+1,Welcome & Grade 4 Review,1.2,Practice with mixed examples,grade 5
+1,Welcome & Grade 4 Review,1.3,Spotting and fixing tricky parts,grade 5
+1,Welcome & Grade 4 Review,1.4,Putting the skills together,grade 5
+1,Welcome & Grade 4 Review,1.5,Show what you know,grade 5
+1,Welcome & Grade 4 Review,1.6,Welcome & Grade 4 Review Quiz,grade 5
+2,Automatic Multisyllabic Word Analysis,2.1,Introducing automatic multisyllabic word analysis,grade 5
+2,Automatic Multisyllabic Word Analysis,2.2,Clear examples of automatic multisyllabic word analysis,grade 5
+2,Automatic Multisyllabic Word Analysis,2.3,Practicing automatic multisyllabic word analysis,grade 5
+2,Automatic Multisyllabic Word Analysis,2.4,Applying automatic multisyllabic word analysis,grade 5
+2,Automatic Multisyllabic Word Analysis,2.5,Mastering automatic multisyllabic word analysis,grade 5
+2,Automatic Multisyllabic Word Analysis,2.6,Automatic Multisyllabic Word Analysis Quiz,grade 5
+3,Advanced Greek & Latin Roots,3.1,Meet the word parts in Advanced Greek & Latin Roots,grade 5
+3,Advanced Greek & Latin Roots,3.2,What each part means,grade 5
+3,Advanced Greek & Latin Roots,3.3,Building words with Advanced Greek & Latin Roots,grade 5
+3,Advanced Greek & Latin Roots,3.4,Breaking big words into parts,grade 5
+3,Advanced Greek & Latin Roots,3.5,Using the parts to unlock meaning,grade 5
+3,Advanced Greek & Latin Roots,3.6,Advanced Greek & Latin Roots Quiz,grade 5
+4,Advanced Prefixes & Suffixes,4.1,Meet the word parts in Advanced Prefixes & Suffixes,grade 5
+4,Advanced Prefixes & Suffixes,4.2,What each part means,grade 5
+4,Advanced Prefixes & Suffixes,4.3,Building words with Advanced Prefixes & Suffixes,grade 5
+4,Advanced Prefixes & Suffixes,4.4,Breaking big words into parts,grade 5
+4,Advanced Prefixes & Suffixes,4.5,Using the parts to unlock meaning,grade 5
+4,Advanced Prefixes & Suffixes,4.6,Advanced Prefixes & Suffixes Quiz,grade 5
+5,Morphology - Etymology & Word Histories,5.1,Meet the word parts in Etymology & Word Histories,grade 5
+5,Morphology - Etymology & Word Histories,5.2,What each part means,grade 5
+5,Morphology - Etymology & Word Histories,5.3,Building words with Etymology & Word Histories,grade 5
+5,Morphology - Etymology & Word Histories,5.4,Breaking big words into parts,grade 5
+5,Morphology - Etymology & Word Histories,5.5,Using the parts to unlock meaning,grade 5
+5,Morphology - Etymology & Word Histories,5.6,Morphology - Etymology & Word Histories Quiz,grade 5
+6,Fluency - Prose & Poetry for Meaning,6.1,Reading with accuracy,grade 5
+6,Fluency - Prose & Poetry for Meaning,6.2,Reading at a smooth rate,grade 5
+6,Fluency - Prose & Poetry for Meaning,6.3,Reading with expression,grade 5
+6,Fluency - Prose & Poetry for Meaning,6.4,Phrasing with punctuation,grade 5
+6,Fluency - Prose & Poetry for Meaning,6.5,Re-reading to build fluency,grade 5
+6,Fluency - Prose & Poetry for Meaning,6.6,Fluency - Prose & Poetry for Meaning Quiz,grade 5
+7,Comprehension - Quote Accurately from Text,7.1,What is quote accurately from text?,grade 5
+7,Comprehension - Quote Accurately from Text,7.2,Finding quote accurately from text in a short text,grade 5
+7,Comprehension - Quote Accurately from Text,7.3,Using text evidence for quote accurately from text,grade 5
+7,Comprehension - Quote Accurately from Text,7.4,Practicing quote accurately from text with a passage,grade 5
+7,Comprehension - Quote Accurately from Text,7.5,Explaining quote accurately from text in my own words,grade 5
+7,Comprehension - Quote Accurately from Text,7.6,Comprehension - Quote Accurately from Text Quiz,grade 5
+8,Comprehension - Summarize Without Opinion,8.1,What is summarize without opinion?,grade 5
+8,Comprehension - Summarize Without Opinion,8.2,Finding summarize without opinion in a short text,grade 5
+8,Comprehension - Summarize Without Opinion,8.3,Using text evidence for summarize without opinion,grade 5
+8,Comprehension - Summarize Without Opinion,8.4,Practicing summarize without opinion with a passage,grade 5
+8,Comprehension - Summarize Without Opinion,8.5,Explaining summarize without opinion in my own words,grade 5
+8,Comprehension - Summarize Without Opinion,8.6,Comprehension - Summarize Without Opinion Quiz,grade 5
+9,Comprehension - Theme from Details & Reflection,9.1,What is theme from details & reflection?,grade 5
+9,Comprehension - Theme from Details & Reflection,9.2,Finding theme from details & reflection in a short text,grade 5
+9,Comprehension - Theme from Details & Reflection,9.3,Using text evidence for theme from details & reflection,grade 5
+9,Comprehension - Theme from Details & Reflection,9.4,Practicing theme from details & reflection with a passage,grade 5
+9,Comprehension - Theme from Details & Reflection,9.5,Explaining theme from details & reflection in my own words,grade 5
+9,Comprehension - Theme from Details & Reflection,9.6,Comprehension - Theme from Details & Reflection Quiz,grade 5
+10,Comprehension - Compare Characters/Settings/Events,10.1,What is compare characters/settings/events?,grade 5
+10,Comprehension - Compare Characters/Settings/Events,10.2,Finding compare characters/settings/events in a short text,grade 5
+10,Comprehension - Compare Characters/Settings/Events,10.3,Using text evidence for compare characters/settings/events,grade 5
+10,Comprehension - Compare Characters/Settings/Events,10.4,Practicing compare characters/settings/events with a passage,grade 5
+10,Comprehension - Compare Characters/Settings/Events,10.5,Explaining compare characters/settings/events in my own words,grade 5
+10,Comprehension - Compare Characters/Settings/Events,10.6,Comprehension - Compare Characters/Settings/Events Quiz,grade 5
+11,Comprehension - Analyze How POV Shapes the Text,11.1,What is analyze how pov shapes the text?,grade 5
+11,Comprehension - Analyze How POV Shapes the Text,11.2,Finding analyze how pov shapes the text in a short text,grade 5
+11,Comprehension - Analyze How POV Shapes the Text,11.3,Using text evidence for analyze how pov shapes the text,grade 5
+11,Comprehension - Analyze How POV Shapes the Text,11.4,Practicing analyze how pov shapes the text with a passage,grade 5
+11,Comprehension - Analyze How POV Shapes the Text,11.5,Explaining analyze how pov shapes the text in my own words,grade 5
+11,Comprehension - Analyze How POV Shapes the Text,11.6,Comprehension - Analyze How POV Shapes the Text Quiz,grade 5
+12,Informational - Main Ideas w/ Key Details,12.1,What is main ideas w/ key details?,grade 5
+12,Informational - Main Ideas w/ Key Details,12.2,Finding main ideas w/ key details in a short text,grade 5
+12,Informational - Main Ideas w/ Key Details,12.3,Using text evidence for main ideas w/ key details,grade 5
+12,Informational - Main Ideas w/ Key Details,12.4,Practicing main ideas w/ key details with a passage,grade 5
+12,Informational - Main Ideas w/ Key Details,12.5,Explaining main ideas w/ key details in my own words,grade 5
+12,Informational - Main Ideas w/ Key Details,12.6,Informational - Main Ideas w/ Key Details Quiz,grade 5
+13,Informational - Explain Relationships,13.1,What is explain relationships?,grade 5
+13,Informational - Explain Relationships,13.2,Finding explain relationships in a short text,grade 5
+13,Informational - Explain Relationships,13.3,Using text evidence for explain relationships,grade 5
+13,Informational - Explain Relationships,13.4,Practicing explain relationships with a passage,grade 5
+13,Informational - Explain Relationships,13.5,Explaining explain relationships in my own words,grade 5
+13,Informational - Explain Relationships,13.6,Informational - Explain Relationships Quiz,grade 5
+14,Informational - Analyze Overall Text Structure,14.1,What is analyze overall text structure?,grade 5
+14,Informational - Analyze Overall Text Structure,14.2,Finding analyze overall text structure in a short text,grade 5
+14,Informational - Analyze Overall Text Structure,14.3,Using text evidence for analyze overall text structure,grade 5
+14,Informational - Analyze Overall Text Structure,14.4,Practicing analyze overall text structure with a passage,grade 5
+14,Informational - Analyze Overall Text Structure,14.5,Explaining analyze overall text structure in my own words,grade 5
+14,Informational - Analyze Overall Text Structure,14.6,Informational - Analyze Overall Text Structure Quiz,grade 5
+15,Informational - Integrate Info from Several Texts,15.1,What is integrate info from several texts?,grade 5
+15,Informational - Integrate Info from Several Texts,15.2,Finding integrate info from several texts in a short text,grade 5
+15,Informational - Integrate Info from Several Texts,15.3,Using text evidence for integrate info from several texts,grade 5
+15,Informational - Integrate Info from Several Texts,15.4,Practicing integrate info from several texts with a passage,grade 5
+15,Informational - Integrate Info from Several Texts,15.5,Explaining integrate info from several texts in my own words,grade 5
+15,Informational - Integrate Info from Several Texts,15.6,Informational - Integrate Info from Several Texts Quiz,grade 5
+16,Reading - Evaluate Reasons & Evidence in Arguments,16.1,What is evaluate reasons & evidence in arguments?,grade 5
+16,Reading - Evaluate Reasons & Evidence in Arguments,16.2,Finding evaluate reasons & evidence in arguments in a short text,grade 5
+16,Reading - Evaluate Reasons & Evidence in Arguments,16.3,Using text evidence for evaluate reasons & evidence in arguments,grade 5
+16,Reading - Evaluate Reasons & Evidence in Arguments,16.4,Practicing evaluate reasons & evidence in arguments with a passage,grade 5
+16,Reading - Evaluate Reasons & Evidence in Arguments,16.5,Explaining evaluate reasons & evidence in arguments in my own words,grade 5
+16,Reading - Evaluate Reasons & Evidence in Arguments,16.6,Reading - Evaluate Reasons & Evidence in Arguments Quiz,grade 5
+17,Vocabulary - Figurative Language & Nuance,17.1,Understanding figurative language & nuance,grade 5
+17,Vocabulary - Figurative Language & Nuance,17.2,Clear examples of figurative language & nuance,grade 5
+17,Vocabulary - Figurative Language & Nuance,17.3,Using figurative language & nuance in sentences,grade 5
+17,Vocabulary - Figurative Language & Nuance,17.4,Working out figurative language & nuance from context,grade 5
+17,Vocabulary - Figurative Language & Nuance,17.5,Practicing figurative language & nuance,grade 5
+17,Vocabulary - Figurative Language & Nuance,17.6,Vocabulary - Figurative Language & Nuance Quiz,grade 5
+18,"Vocabulary - Idioms, Adages, Proverbs",18.1,"Understanding idioms, adages, proverbs",grade 5
+18,"Vocabulary - Idioms, Adages, Proverbs",18.2,"Clear examples of idioms, adages, proverbs",grade 5
+18,"Vocabulary - Idioms, Adages, Proverbs",18.3,"Using idioms, adages, proverbs in sentences",grade 5
+18,"Vocabulary - Idioms, Adages, Proverbs",18.4,"Working out idioms, adages, proverbs from context",grade 5
+18,"Vocabulary - Idioms, Adages, Proverbs",18.5,"Practicing idioms, adages, proverbs",grade 5
+18,"Vocabulary - Idioms, Adages, Proverbs",18.6,"Vocabulary - Idioms, Adages, Proverbs Quiz",grade 5
+19,Vocabulary - Greek/Latin Roots for Meaning,19.1,Meet the word parts in Greek/Latin Roots for Meaning,grade 5
+19,Vocabulary - Greek/Latin Roots for Meaning,19.2,What each part means,grade 5
+19,Vocabulary - Greek/Latin Roots for Meaning,19.3,Building words with Greek/Latin Roots for Meaning,grade 5
+19,Vocabulary - Greek/Latin Roots for Meaning,19.4,Breaking big words into parts,grade 5
+19,Vocabulary - Greek/Latin Roots for Meaning,19.5,Using the parts to unlock meaning,grade 5
+19,Vocabulary - Greek/Latin Roots for Meaning,19.6,Vocabulary - Greek/Latin Roots for Meaning Quiz,grade 5
+20,Vocabulary - Academic & Domain Words in Context,20.1,Understanding academic & domain words in context,grade 5
+20,Vocabulary - Academic & Domain Words in Context,20.2,Clear examples of academic & domain words in context,grade 5
+20,Vocabulary - Academic & Domain Words in Context,20.3,Using academic & domain words in context in sentences,grade 5
+20,Vocabulary - Academic & Domain Words in Context,20.4,Working out academic & domain words in context from context,grade 5
+20,Vocabulary - Academic & Domain Words in Context,20.5,Practicing academic & domain words in context,grade 5
+20,Vocabulary - Academic & Domain Words in Context,20.6,Vocabulary - Academic & Domain Words in Context Quiz,grade 5
+21,Grammar - Perfect Verb Tenses,21.1,What are perfect verb tenses?,grade 5
+21,Grammar - Perfect Verb Tenses,21.2,Spotting perfect verb tenses in sentences,grade 5
+21,Grammar - Perfect Verb Tenses,21.3,Using perfect verb tenses correctly,grade 5
+21,Grammar - Perfect Verb Tenses,21.4,Editing for perfect verb tenses,grade 5
+21,Grammar - Perfect Verb Tenses,21.5,Practicing perfect verb tenses,grade 5
+21,Grammar - Perfect Verb Tenses,21.6,Grammar - Perfect Verb Tenses Quiz,grade 5
+22,Grammar - Correlative Conjunctions,22.1,What are correlative conjunctions?,grade 5
+22,Grammar - Correlative Conjunctions,22.2,Spotting correlative conjunctions in sentences,grade 5
+22,Grammar - Correlative Conjunctions,22.3,Using correlative conjunctions correctly,grade 5
+22,Grammar - Correlative Conjunctions,22.4,Editing for correlative conjunctions,grade 5
+22,Grammar - Correlative Conjunctions,22.5,Practicing correlative conjunctions,grade 5
+22,Grammar - Correlative Conjunctions,22.6,Grammar - Correlative Conjunctions Quiz,grade 5
+23,Grammar - Interjections & Their Function,23.1,What is interjections & their function?,grade 5
+23,Grammar - Interjections & Their Function,23.2,Spotting interjections & their function in sentences,grade 5
+23,Grammar - Interjections & Their Function,23.3,Using interjections & their function correctly,grade 5
+23,Grammar - Interjections & Their Function,23.4,Editing for interjections & their function,grade 5
+23,Grammar - Interjections & Their Function,23.5,Practicing interjections & their function,grade 5
+23,Grammar - Interjections & Their Function,23.6,Grammar - Interjections & Their Function Quiz,grade 5
+24,Grammar - Complex Sentences,24.1,What are complex sentences?,grade 5
+24,Grammar - Complex Sentences,24.2,Spotting complex sentences in sentences,grade 5
+24,Grammar - Complex Sentences,24.3,Using complex sentences correctly,grade 5
+24,Grammar - Complex Sentences,24.4,Editing for complex sentences,grade 5
+24,Grammar - Complex Sentences,24.5,Practicing complex sentences,grade 5
+24,Grammar - Complex Sentences,24.6,Grammar - Complex Sentences Quiz,grade 5
+25,"Grammar - Conjunctions, Prepositions, Interjections",25.1,"What are conjunctions, prepositions, interjections?",grade 5
+25,"Grammar - Conjunctions, Prepositions, Interjections",25.2,"Spotting conjunctions, prepositions, interjections in sentences",grade 5
+25,"Grammar - Conjunctions, Prepositions, Interjections",25.3,"Using conjunctions, prepositions, interjections correctly",grade 5
+25,"Grammar - Conjunctions, Prepositions, Interjections",25.4,"Editing for conjunctions, prepositions, interjections",grade 5
+25,"Grammar - Conjunctions, Prepositions, Interjections",25.5,"Practicing conjunctions, prepositions, interjections",grade 5
+25,"Grammar - Conjunctions, Prepositions, Interjections",25.6,"Grammar - Conjunctions, Prepositions, Interjections Quiz",grade 5
+26,"Grammar - Commas, Italics, Underlining for Titles",26.1,"What are commas, italics, underlining for titles?",grade 5
+26,"Grammar - Commas, Italics, Underlining for Titles",26.2,"Spotting commas, italics, underlining for titles in sentences",grade 5
+26,"Grammar - Commas, Italics, Underlining for Titles",26.3,"Using commas, italics, underlining for titles correctly",grade 5
+26,"Grammar - Commas, Italics, Underlining for Titles",26.4,"Editing for commas, italics, underlining for titles",grade 5
+26,"Grammar - Commas, Italics, Underlining for Titles",26.5,"Practicing commas, italics, underlining for titles",grade 5
+26,"Grammar - Commas, Italics, Underlining for Titles",26.6,"Grammar - Commas, Italics, Underlining for Titles Quiz",grade 5
+27,Grammar - Editing for Conventions,27.1,What are editing for conventions?,grade 5
+27,Grammar - Editing for Conventions,27.2,Spotting editing for conventions in sentences,grade 5
+27,Grammar - Editing for Conventions,27.3,Using editing for conventions correctly,grade 5
+27,Grammar - Editing for Conventions,27.4,Editing for editing for conventions,grade 5
+27,Grammar - Editing for Conventions,27.5,Practicing editing for conventions,grade 5
+27,Grammar - Editing for Conventions,27.6,Grammar - Editing for Conventions Quiz,grade 5
+28,Writing - Opinion: Logically Ordered Reasons + Evidence,28.1,Planning a logically ordered reasons + evidence piece,grade 5
+28,Writing - Opinion: Logically Ordered Reasons + Evidence,28.2,"Drafting with a clear beginning, middle, and end",grade 5
+28,Writing - Opinion: Logically Ordered Reasons + Evidence,28.3,Adding details and organizing my ideas,grade 5
+28,Writing - Opinion: Logically Ordered Reasons + Evidence,28.4,Strong word choice and linking words,grade 5
+28,Writing - Opinion: Logically Ordered Reasons + Evidence,28.5,Revising and sharing my logically ordered reasons + evidence writing,grade 5
+28,Writing - Opinion: Logically Ordered Reasons + Evidence,28.6,Logically Ordered Reasons + Evidence Quiz,grade 5
+29,Writing - Narrative w/ Full Technique,29.1,Planning a narrative w/ full technique piece,grade 5
+29,Writing - Narrative w/ Full Technique,29.2,"Drafting with a clear beginning, middle, and end",grade 5
+29,Writing - Narrative w/ Full Technique,29.3,Adding details and organizing my ideas,grade 5
+29,Writing - Narrative w/ Full Technique,29.4,Strong word choice and linking words,grade 5
+29,Writing - Narrative w/ Full Technique,29.5,Revising and sharing my narrative w/ full technique writing,grade 5
+29,Writing - Narrative w/ Full Technique,29.6,Writing - Narrative w/ Full Technique Quiz,grade 5
+30,Writing - Informative w/ Formatting & Multimedia,30.1,Planning an informative w/ formatting and multimedia piece,grade 5
+30,Writing - Informative w/ Formatting & Multimedia,30.2,"Drafting with a clear beginning, middle, and end",grade 5
+30,Writing - Informative w/ Formatting & Multimedia,30.3,Adding details and organizing my ideas,grade 5
+30,Writing - Informative w/ Formatting & Multimedia,30.4,Strong word choice and linking words,grade 5
+30,Writing - Informative w/ Formatting & Multimedia,30.5,Revising and sharing my informative w/ formatting and multimedia writing,grade 5
+30,Writing - Informative w/ Formatting & Multimedia,30.6,Writing - Informative w/ Formatting & Multimedia Quiz,grade 5
+31,Writing - Cite Sources & Avoid Plagiarism,31.1,Planning a cite sources and avoid plagiarism piece,grade 5
+31,Writing - Cite Sources & Avoid Plagiarism,31.2,"Drafting with a clear beginning, middle, and end",grade 5
+31,Writing - Cite Sources & Avoid Plagiarism,31.3,Adding details and organizing my ideas,grade 5
+31,Writing - Cite Sources & Avoid Plagiarism,31.4,Strong word choice and linking words,grade 5
+31,Writing - Cite Sources & Avoid Plagiarism,31.5,Revising and sharing my cite sources and avoid plagiarism writing,grade 5
+31,Writing - Cite Sources & Avoid Plagiarism,31.6,Writing - Cite Sources & Avoid Plagiarism Quiz,grade 5
+32,Writing - Multi-Source Research Piece,32.1,Planning a multi-source research piece,grade 5
+32,Writing - Multi-Source Research Piece,32.2,"Drafting with a clear beginning, middle, and end",grade 5
+32,Writing - Multi-Source Research Piece,32.3,Adding details and organizing my ideas,grade 5
+32,Writing - Multi-Source Research Piece,32.4,Strong word choice and linking words,grade 5
+32,Writing - Multi-Source Research Piece,32.5,Revising and sharing my multi-source research piece writing,grade 5
+32,Writing - Multi-Source Research Piece,32.6,Writing - Multi-Source Research Piece Quiz,grade 5
+33,"Writing Process - Plan, Revise, Edit, Publish",33.1,Planning my writing,grade 5
+33,"Writing Process - Plan, Revise, Edit, Publish",33.2,Drafting a first version,grade 5
+33,"Writing Process - Plan, Revise, Edit, Publish",33.3,Revising for ideas and clarity,grade 5
+33,"Writing Process - Plan, Revise, Edit, Publish",33.4,Editing for conventions,grade 5
+33,"Writing Process - Plan, Revise, Edit, Publish",33.5,Publishing & sharing,grade 5
+33,"Writing Process - Plan, Revise, Edit, Publish",33.6,"Writing Process - Plan, Revise, Edit, Publish Quiz",grade 5
+34,Speaking & Listening - Report w/ Logical Sequence + Media,34.1,Planning what to say,grade 5
+34,Speaking & Listening - Report w/ Logical Sequence + Media,34.2,Organizing facts in order,grade 5
+34,Speaking & Listening - Report w/ Logical Sequence + Media,34.3,Speaking clearly with detail,grade 5
+34,Speaking & Listening - Report w/ Logical Sequence + Media,34.4,Using media or visuals to support,grade 5
+34,Speaking & Listening - Report w/ Logical Sequence + Media,34.5,Listening and responding,grade 5
+34,Speaking & Listening - Report w/ Logical Sequence + Media,34.6,Speaking & Listening - Report w/ Logical Sequence + Media Quiz,grade 5
+35,Speaking & Listening - Summarize a Discussion,35.1,Planning what to say,grade 5
+35,Speaking & Listening - Summarize a Discussion,35.2,Organizing facts in order,grade 5
+35,Speaking & Listening - Summarize a Discussion,35.3,Speaking clearly with detail,grade 5
+35,Speaking & Listening - Summarize a Discussion,35.4,Using media or visuals to support,grade 5
+35,Speaking & Listening - Summarize a Discussion,35.5,Listening and responding,grade 5
+35,Speaking & Listening - Summarize a Discussion,35.6,Speaking & Listening - Summarize a Discussion Quiz,grade 5
+36,"Review, Integration & Final Course Assessment",36.1,Warm-up review of key skills,grade 5
+36,"Review, Integration & Final Course Assessment",36.2,Practice with mixed examples,grade 5
+36,"Review, Integration & Final Course Assessment",36.3,Spotting and fixing tricky parts,grade 5
+36,"Review, Integration & Final Course Assessment",36.4,Putting the skills together,grade 5
+36,"Review, Integration & Final Course Assessment",36.5,Show what you know,grade 5
+36,"Review, Integration & Final Course Assessment",36.6,"Review, Integration & Final Course Assessment Quiz",grade 5
