@@ -20,6 +20,7 @@ a.card:hover{transform:translateY(-2px);box-shadow:0 6px 18px rgba(33,65,119,.15
 a.card .m{font-size:13px;font-weight:800;color:var(--royal);letter-spacing:.4px}
 a.card .t{font-size:17px;font-weight:600;margin-top:3px;line-height:1.25}
 .hide{display:none}
+.shint{color:var(--navy);font-weight:700;margin:14px 4px 8px}
 footer{text-align:center;padding:24px;color:#5a6480;font-size:13px}
 footer img{height:30px;vertical-align:middle;margin-right:6px}
 </style></head><body>
@@ -29,6 +30,7 @@ footer img{height:30px;vertical-align:middle;margin-right:6px}
 <p>Kindergarten through Grade 5 · click any module to open its interactive lesson</p>
 </header>
 <div class=tabs id=tabs></div>
+<div style="text-align:center;padding:0 16px 6px"><input id=search placeholder="Search all grades… (e.g. vowel, roots, grammar)" style="width:100%;max-width:520px;padding:13px 18px;font-size:17px;border:2px solid var(--royal);border-radius:30px;outline:none"></div>
 <div class=wrap id=wrap></div>
 <footer><img src="https://base44.app/api/apps/6a1efd8efa1513ab48247266/files/mp/public/6a1efd8efa1513ab48247266/a94a020e2_lbg_logo_small.png">© 2026 Learning By Grace · All rights reserved.</footer>
 <script>
@@ -37,13 +39,24 @@ const order=["K","1","2","3","4","5"];
 const tabs=document.getElementById('tabs'), wrap=document.getElementById('wrap');
 order.forEach((g,i)=>{
   const b=document.createElement('button');b.className='tab'+(i===0?' active':'');b.textContent=g==='K'?'Kindergarten':'Grade '+g;
-  b.onclick=()=>{document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));b.classList.add('active');show(g);};
+  b.onclick=()=>{document.getElementById('search').value='';document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));b.classList.add('active');show(g);};
   tabs.appendChild(b);
 });
+let CURRENT='K';
+function card(g,d,m){return '<a class=card href="'+BASE+'/'+d.slug+'-m'+m.n+'.html" target=_blank><div class=m>'+(g==='K'?'KINDERGARTEN':'GRADE '+g)+' · MODULE '+m.n+'</div><div class=t>'+m.t.replace(/</g,'&lt;')+'</div></a>';}
 function show(g){
-  const d=DATA[g];let h='<div class=gradeTitle>'+(g==='K'?'Kindergarten':'Grade '+g)+' — '+d.mods.length+' modules</div><div class=grid>';
+  CURRENT=g;const d=DATA[g];let h='<div class=gradeTitle>'+(g==='K'?'Kindergarten':'Grade '+g)+' — '+d.mods.length+' modules</div><div class=grid>';
   d.mods.forEach(m=>{h+='<a class=card href="'+BASE+'/'+d.slug+'-m'+m.n+'.html" target=_blank><div class=m>MODULE '+m.n+'</div><div class=t>'+m.t.replace(/</g,'&lt;')+'</div></a>';});
   wrap.innerHTML=h+'</div>';
 }
+function search(q){
+  q=q.trim().toLowerCase();
+  if(!q){document.querySelectorAll('.tab').forEach(t=>t.style.opacity=1);show(CURRENT);return;}
+  let hits=[];
+  order.forEach(g=>{const d=DATA[g];d.mods.forEach(m=>{if(m.t.toLowerCase().includes(q))hits.push(card(g,d,m));});});
+  wrap.innerHTML='<div class=shint>'+hits.length+' result'+(hits.length===1?'':'s')+' for "'+q.replace(/</g,'&lt;')+'"</div><div class=grid>'+hits.join('')+'</div>';
+}
+const sb=document.getElementById('search');
+sb.addEventListener('input',e=>search(e.target.value));
 show('K');
 </script></body></html>
