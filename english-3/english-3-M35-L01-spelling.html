@@ -1,0 +1,82 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><title>🔡 Spelling Scramble</title>
+<style>
+:root{--teal:#4F5DB0;--teal-d:#3D49A0;--gold:#A9B2E0;--cream:#F5F6FB;--good:#2e7d52;--bad:#c0432e;}
+*{box-sizing:border-box;}
+body{margin:0;background:linear-gradient(160deg,#eef0fb,#dde1f3);font-family:'Trebuchet MS',Arial,sans-serif;
+color:var(--teal-d);min-height:100vh;display:flex;align-items:flex-start;justify-content:center;padding:18px;}
+.game{width:100%;max-width:680px;background:#fff;border-radius:18px;box-shadow:0 10px 34px rgba(0,0,0,.12);
+overflow:hidden;border:2px solid var(--gold);}
+header{background:linear-gradient(180deg,var(--teal),var(--teal-d));color:#fff;padding:16px 22px;}
+header .kick{font-size:11px;letter-spacing:2px;opacity:.85;font-weight:700;}
+header h1{margin:4px 0 0;font-size:22px;} header .sub{font-size:13px;opacity:.9;margin-top:3px;}
+.bar{display:flex;justify-content:space-between;padding:10px 22px;background:var(--cream);
+border-bottom:1px solid #dfe2f3;font-size:14px;font-weight:700;} .bar .score{color:var(--gold);}
+.progress{height:8px;background:#e7eeed;margin:0 22px;border-radius:6px;overflow:hidden;}
+.progress>i{display:block;height:100%;background:var(--gold);width:0;transition:width .3s;}
+.stage{padding:22px;}
+.prompt{text-align:center;margin-bottom:14px;} .prompt .lbl{font-size:13px;color:#888;font-weight:700;
+text-transform:uppercase;letter-spacing:1px;}
+.target{display:inline-block;margin-top:8px;background:var(--teal);color:#fff;font-size:32px;font-weight:800;
+padding:12px 32px;border-radius:14px;border:3px solid var(--gold);box-shadow:0 4px 0 var(--teal-d);}
+.hint{font-size:13px;color:#666;margin-top:10px;}
+.passage{background:var(--cream);border-left:6px solid var(--gold);border-radius:10px;padding:14px 16px;
+font-size:16px;line-height:1.6;margin-bottom:14px;}
+.choices{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:18px;}
+.choice{cursor:pointer;background:#fff;border:2.5px solid var(--teal);border-radius:14px;padding:16px 10px;
+text-align:center;font-size:22px;font-weight:800;color:var(--teal-d);box-shadow:0 3px 0 #C9CEEC;
+transition:transform .08s,box-shadow .12s;user-select:none;}
+.choice:hover{transform:translateY(-2px);box-shadow:0 6px 14px rgba(44,85,96,.18);}
+.choice.correct{background:var(--good);color:#fff;border-color:var(--good);box-shadow:0 3px 0 #1e5638;}
+.choice.wrong{background:var(--bad);color:#fff;border-color:var(--bad);box-shadow:0 3px 0 #7e2a1d;}
+.choice.disabled{pointer-events:none;opacity:.85;}
+.tiles,.bank{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;min-height:60px;margin:12px 0;}
+.tile{cursor:pointer;background:var(--teal);color:#fff;font-size:26px;font-weight:800;width:54px;height:54px;
+display:flex;align-items:center;justify-content:center;border-radius:12px;border:2px solid var(--gold);
+box-shadow:0 3px 0 var(--teal-d);user-select:none;}
+.slot{width:54px;height:54px;border:3px dashed #b9c7c4;border-radius:12px;display:flex;align-items:center;
+justify-content:center;font-size:26px;font-weight:800;color:var(--teal);}
+.feedback{min-height:26px;text-align:center;margin-top:14px;font-size:17px;font-weight:800;}
+.feedback.good{color:var(--good);} .feedback.bad{color:var(--bad);}
+.next{display:block;margin:8px auto 0;background:linear-gradient(180deg,var(--teal),var(--teal-d));color:#fff;
+border:none;font-size:16px;font-weight:800;padding:12px 30px;border-radius:30px;cursor:pointer;box-shadow:0 4px 0 #2c3576;}
+.next:active{transform:translateY(2px);box-shadow:0 2px 0 #2c3576;}
+.submit{display:block;text-align:center;margin:16px auto 0;max-width:420px;background:#EEF0FB;border:2px solid var(--gold);
+border-radius:10px;padding:10px;font-weight:800;color:var(--teal-d);text-decoration:none;}
+.end{text-align:center;padding:30px 22px;} .end h2{color:var(--teal);font-size:26px;margin:0 0 6px;}
+.star{font-size:48px;}
+.brandfooter{text-align:center;padding:12px 16px 16px;font-size:11px;color:#7a83b8;
+font-weight:700;letter-spacing:.3px;}
+.brandfooter img{height:42px;display:block;margin:0 auto 6px;opacity:.95;}
+header{position:relative;}
+header .logo{position:absolute;top:12px;right:16px;height:46px;width:auto;
+filter:drop-shadow(0 1px 2px rgba(0,0,0,.25));}
+header h1{padding-right:56px;}
+</style></head><body>
+<div class="game">
+  <header><img class="logo" src="https://base44.app/api/apps/6a1efd8efa1513ab48247266/files/mp/public/6a1efd8efa1513ab48247266/a94a020e2_lbg_logo_small.png" alt="Learning By Grace"><div class="kick">ENGLISH 3 · MODULE 35 · WRITING PROCESS - PLAN, REVISE, EDIT</div><h1>🔡 Spelling Scramble</h1>
+  <div class="sub">Unscramble the letters to build each word.</div></header>
+  <div class="bar"><span>Question <span id="qnum">1</span> / <span id="qtot">1</span></span>
+  <span class="score">⭐ Score: <span id="score">0</span></span></div>
+  <div class="progress"><i id="pbar"></i></div>
+  <div class="stage" id="stage"><div id="boot"></div></div>
+</div>
+<div class="brandfooter"><img src="https://base44.app/api/apps/6a1efd8efa1513ab48247266/files/mp/public/6a1efd8efa1513ab48247266/a94a020e2_lbg_logo_small.png" alt="Learning By Grace">A Learning By Grace production &middot; &copy; 2026 Learning By Grace &middot; All rights reserved.</div>
+<script>
+const SUBMIT_FORM="https://docs.google.com/forms/d/e/1FAIpQLSempv0GyGaMueoDkb4aLNtsnbai_XNLePnFKbfef1dygab0mw/viewform";
+const VERSE="Let the wise listen and add to their learning. \u2014 Proverbs 1:5";
+const $=id=>document.getElementById(id);
+
+const WORDS=["PLAN", "PUBLISH", "REVISE", "DRAFT", "IMPROVE", "POLISH"];let idx=0,score=0;
+function render(){const w=WORDS[idx];const scr=w.split('').sort(()=>Math.random()-.5);let built='';
+  $("stage").innerHTML='<p class="sub">Unscramble the letters to spell the word.</p><div id=ans class="tiles" style="border:2px dashed var(--gold);border-radius:12px;padding:8px"></div><div id=bank class="bank"></div><div class="feedback" id=fb></div>';
+  const ans=$("ans"),bank=$("bank");
+  scr.forEach(ch=>{const t=document.createElement('div');t.className='tile';t.textContent=ch;
+    t.onclick=()=>{if(t.style.visibility==='hidden')return;built+=ch;t.style.visibility='hidden';
+      const s=document.createElement('div');s.className='tile';s.textContent=ch;ans.appendChild(s);
+      if(built.length===w.length){if(built===w){ans.querySelectorAll('.tile').forEach(x=>x.style.background='var(--good)');score+=10;$("score").textContent=score;$("fb").textContent='✅ Correct!';$("fb").className='feedback good';setTimeout(()=>{idx++;idx<WORDS.length?render():end();},850);}else{ans.querySelectorAll('.tile').forEach(x=>x.style.background='var(--bad)');$("fb").textContent='Try again!';$("fb").className='feedback bad';setTimeout(render,850);}}};bank.appendChild(t);});
+}
+function end(){$("pbar").style.width="100%";$("stage").innerHTML='<div class="end"><div class="star">⭐⭐⭐</div><h2>Great job!</h2><p style="font-size:18px">You spelled them all! Score: <b>'+score+'</b></p><p style="color:#666">"'+VERSE+'"</p><button class="next" onclick="location.reload()">Play Again ↺</button></div>';}
+render();
+
+</script></body></html>
