@@ -1,0 +1,27 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Roots & Base Words — Think About It</title>
+<style>
+@font-face { font-family:'Howli'; src:url('https://mrothschild19.github.io/k12-reading-games/assets/Howli-Serif.otf') format('opentype'); font-display:swap; }
+*{box-sizing:border-box;} html,body{margin:0;padding:0;background:transparent;font-family:'Roboto Slab',Georgia,serif;}
+.wrap{display:flex;justify-content:center;padding:14px;}
+.card{width:100%;max-width:430px;border-radius:20px;overflow:hidden;box-shadow:0 16px 48px rgba(0,0,0,.35);display:flex;flex-direction:column;}
+.logo-tl{position:absolute;top:12px;left:12px;height:36px;width:auto;z-index:5;filter:drop-shadow(0 1px 3px rgba(0,0,0,.4));}
+.cardnum{position:absolute;top:14px;right:16px;color:#C9A24B;font-size:13px;font-weight:bold;z-index:5;}
+h1,h2,h3{font-family:'Howli',Georgia,serif;line-height:1.25;letter-spacing:.02em;margin:0;text-transform:uppercase;}
+</style></head>
+<body><div class="wrap"><div class="card" style="position:relative;background:#FBF3DE;">
+<img class="logo-tl" src="https://mrothschild19.github.io/k12-reading-games/assets/lbg-logo.png" alt="LBG"><span class="cardnum">9.4</span>
+<img src="https://media.base44.com/images/public/6a29998ad76d8ed3d3b24202/6ee1981bb_generated_image.png" style="width:100%;height:150px;object-fit:cover;display:block;" alt="">
+<div style="padding:26px 24px;display:flex;flex-direction:column;gap:14px;align-items:center;text-align:center;">
+  <span style="background:#B6862C;color:#FBF3DE;font-family:'Roboto Slab',Georgia,serif;font-weight:bold;font-size:13px;padding:6px 16px;border-radius:999px;align-self:flex-start;">💡 THINK ABOUT IT</span>
+  <h2 style="color:#214177;font-size:clamp(22px,3.6vw,30px);margin:0;text-align:center;">Think About It</h2>
+  
+  <p style="font-family:'Roboto Slab',Georgia,serif;color:#214177;font-size:17px;font-weight:bold;margin:0;">What is the base word in 'unkindness'?</p>
+  <div style="display:flex;flex-direction:column;gap:10px;"><button onclick="pc(this,1)" style="border:3px solid #B6862C;background:#fff;color:#214177;border-radius:16px;padding:16px 20px;font-family:'Roboto Slab',Georgia,serif;font-size:16px;width:100%;cursor:pointer;text-align:left;">kind</button>
+<button onclick="pc(this,0)" style="border:3px solid #B6862C;background:#fff;color:#214177;border-radius:16px;padding:16px 20px;font-family:'Roboto Slab',Georgia,serif;font-size:16px;width:100%;cursor:pointer;text-align:left;">unkind</button>
+<button onclick="pc(this,0)" style="border:3px solid #B6862C;background:#fff;color:#214177;border-radius:16px;padding:16px 20px;font-family:'Roboto Slab',Georgia,serif;font-size:16px;width:100%;cursor:pointer;text-align:left;">ness</button></div>
+  <div id="fb" style="display:none;font-family:'Roboto Slab',Georgia,serif;font-size:16px;font-weight:bold;padding:12px 16px;border-radius:10px;"></div>
+  <div style="font-family:'Roboto Slab',Georgia,serif;color:#214177;font-size:11px;opacity:.7;margin-top:8px;">✦ Learning By Grace · Wonder Words</div>
+</div></div>
+<script>function pc(b,ok){var p=b.parentElement;p.querySelectorAll('button').forEach(function(x){x.disabled=true});var f=document.getElementById('fb');f.style.display='block';if(ok){b.style.background='#2e9e5b';b.style.color='#fff';f.style.background='#e6f9ee';f.style.color='#1a6b3a';f.textContent='✓ That\'s right! Great thinking.';}else{b.style.background='#e0556a';b.style.color='#fff';f.style.background='#fdeaed';f.style.color='#8b1a2a';f.textContent='Try again — look back at the lesson!';}}</script></div></body></html>
