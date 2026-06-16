@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Comprehension - Sequence & Cause/Effect — Grade 3 · Module 14 · Wonder Words</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{height:100%;background:#0e1b33;font-family:'Roboto Slab',Georgia,serif;}
+  .deck{height:100vh;display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;}
+  .slide{min-width:100vw;height:100vh;scroll-snap-align:center;display:flex;align-items:stretch;justify-content:center;}
+  .slide iframe{width:100%;height:100%;border:0;display:block;}
+  /* nav arrows */
+  .nav{position:fixed;top:50%;transform:translateY(-50%);z-index:20;background:rgba(33,65,119,.85);color:#EAF1FA;border:none;width:46px;height:46px;border-radius:50%;font-size:22px;cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.35);}
+  .nav:hover{background:#214177;}
+  .prev{left:14px;} .next{right:14px;}
+  /* dots */
+  .dots{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);z-index:20;display:flex;gap:10px;background:rgba(14,27,51,.6);padding:9px 14px;border-radius:999px;}
+  .dot{width:11px;height:11px;border-radius:50%;border:none;background:rgba(234,241,250,.4);cursor:pointer;padding:0;}
+  .dot.active{background:#C9A24B;}
+  @media (max-width:640px){ .nav{width:38px;height:38px;font-size:18px;} }
+</style></head>
+<body>
+  <div class="deck" id="deck">
+    <section class="slide" id="s1">
+      <iframe src="https://mrothschild19.github.io/k12-reading-games/english-3/embeds/english-3-M14-card1.html" loading="lazy" title="Card 1 — Scripture"></iframe>
+    </section><section class="slide" id="s2">
+      <iframe src="https://mrothschild19.github.io/k12-reading-games/english-3/embeds/english-3-M14-card2.html" loading="lazy" title="Card 2 — Learn It"></iframe>
+    </section><section class="slide" id="s3">
+      <iframe src="https://mrothschild19.github.io/k12-reading-games/english-3/embeds/english-3-M14-card3.html" loading="lazy" title="Card 3 — Watch It"></iframe>
+    </section><section class="slide" id="s4">
+      <iframe src="https://mrothschild19.github.io/k12-reading-games/english-3/embeds/english-3-M14-card4.html" loading="lazy" title="Card 4 — Think About It"></iframe>
+    </section><section class="slide" id="s5">
+      <iframe src="https://mrothschild19.github.io/k12-reading-games/english-3/embeds/english-3-M14-card5.html" loading="lazy" title="Card 5 — Your Turn"></iframe>
+    </section><section class="slide" id="s6">
+      <iframe src="https://mrothschild19.github.io/k12-reading-games/english-3/embeds/english-3-M14-card6.html" loading="lazy" title="Card 6 — Wonder Moment"></iframe>
+    </section>
+  </div>
+  <button class="nav prev" id="prev" aria-label="Previous">‹</button>
+  <button class="nav next" id="next" aria-label="Next">›</button>
+  <div class="dots" id="dots"><button class="dot" data-go="1" title="Scripture" aria-label="Scripture"></button><button class="dot" data-go="2" title="Learn It" aria-label="Learn It"></button><button class="dot" data-go="3" title="Watch It" aria-label="Watch It"></button><button class="dot" data-go="4" title="Think About It" aria-label="Think About It"></button><button class="dot" data-go="5" title="Your Turn" aria-label="Your Turn"></button><button class="dot" data-go="6" title="Wonder Moment" aria-label="Wonder Moment"></button></div>
+<script>
+  var deck=document.getElementById('deck');
+  var slides=Array.prototype.slice.call(deck.querySelectorAll('.slide'));
+  var dots=Array.prototype.slice.call(document.querySelectorAll('.dot'));
+  function current(){return Math.round(deck.scrollLeft/window.innerWidth);}
+  function go(i){i=Math.max(0,Math.min(slides.length-1,i));deck.scrollTo({left:i*window.innerWidth,behavior:'smooth'});}
+  document.getElementById('next').onclick=function(){go(current()+1);};
+  document.getElementById('prev').onclick=function(){go(current()-1);};
+  dots.forEach(function(d){d.onclick=function(){go(parseInt(d.dataset.go,10)-1);};});
+  function sync(){var c=current();dots.forEach(function(d,idx){d.classList.toggle('active',idx===c);});}
+  deck.addEventListener('scroll',function(){window.requestAnimationFrame(sync);});
+  document.addEventListener('keydown',function(e){if(e.key==='ArrowRight')go(current()+1);if(e.key==='ArrowLeft')go(current()-1);});
+  sync();
+</script>
+</body></html>
